@@ -3,13 +3,13 @@
         "id": 140,
         "title": "TBD",
         "description": "TBD",
-        "language": "English"
+        "language": "Portugues"
     },
     "139": {
         "id": 139,
         "title": "Keynote",
         "description": "",
-        "language": "English"
+        "language": "Portugues"
     },
     "138": {
         "id": 138,
@@ -27,7 +27,7 @@
         "id": 136,
         "title": "GDG DevFest Ukraine 2016 Opening",
         "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-        "language": "English",
+        "language": "Portugues",
         "image": "/images/backgrounds/opening.jpg"
     },
     "135": {
@@ -61,7 +61,7 @@
         "speakers": [
             27
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -74,7 +74,7 @@
         "speakers": [
             26
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -87,7 +87,7 @@
         "speakers": [
             26
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -100,7 +100,7 @@
         "speakers": [
             25
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Android"
@@ -126,7 +126,7 @@
         "speakers": [
             23
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -139,7 +139,7 @@
         "speakers": [
             22
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Cloud"
@@ -152,7 +152,7 @@
         "speakers": [
             21
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -165,7 +165,7 @@
         "speakers": [
             20
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Web"
@@ -178,7 +178,7 @@
         "speakers": [
             19
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -191,7 +191,7 @@
         "speakers": [
             18
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Web"
@@ -204,7 +204,7 @@
         "speakers": [
             18
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Web"
@@ -217,7 +217,7 @@
         "speakers": [
             17
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Android"
@@ -230,7 +230,7 @@
         "speakers": [
             16
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -243,7 +243,7 @@
         "speakers": [
             15
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Cloud"
@@ -256,7 +256,7 @@
         "speakers": [
             14
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Web"
@@ -269,7 +269,7 @@
         "speakers": [
             13
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Android"
@@ -282,7 +282,7 @@
         "speakers": [
             12
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -295,7 +295,7 @@
         "speakers": [
             11
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Cloud"
@@ -308,7 +308,7 @@
         "speakers": [
             10
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Web"
@@ -321,7 +321,7 @@
         "speakers": [
             9
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -334,7 +334,7 @@
         "speakers": [
             8
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -347,7 +347,7 @@
         "speakers": [
             7
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Cloud"
@@ -360,7 +360,7 @@
         "speakers": [
             6
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Web"
@@ -373,7 +373,7 @@
         "speakers": [
             6
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Web"
@@ -386,7 +386,7 @@
         "speakers": [
             5
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Android"
@@ -399,7 +399,7 @@
         "speakers": [
             4
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Cloud"
@@ -412,7 +412,7 @@
         "speakers": [
             3
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Web"
@@ -425,7 +425,7 @@
         "speakers": [
             2
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -438,7 +438,7 @@
         "speakers": [
             1
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Cloud"
@@ -451,7 +451,7 @@
         "speakers": [
             1
         ],
-        "language": "English",
+        "language": "Portugues",
         "complexity": "Beginner",
         "tags": [
             "Cloud"

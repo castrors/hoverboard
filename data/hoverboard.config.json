@@ -7,9 +7,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "Javaneiros 2016",
           "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
+          "text": "Veja como foi em 2015"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -82,12 +82,8 @@
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
-      "name": "English",
+      "name": "Portugues",
       "key": "en"
-    },
-    {
-      "name": "Українська",
-      "key": "uk"
     }
   ],
   "footerBlocks": [
@@ -95,8 +91,8 @@
       "title": "for-visitors",
       "links": [
         {
-          "text": "team",
-          "url": "/team/"
+          "text": "time",
+          "url": "/time/"
         },
         {
           "text": "cod",
