@@ -1,7 +1,7 @@
 # Styling
 
 Styling of your app can be found in `src/styles/shared-styles.html`.
- 
+
 ### Colors
 Generate your own color scheme with [Material Palette][Material Palette]
 and click download Polymer
@@ -11,7 +11,7 @@ Now Replace next section
 ```
  /* Primary colors */
 --dark-primary-color:       #F57C00;
---default-primary-color:    #FF9800;
+--default-primary-color:    #2DDA76;
 --light-primary-color:      #FFE0B2;
 --text-primary-color:       #212121; /* text / icons */
 
@@ -43,7 +43,7 @@ Additionally it's possible to edit/add tags which is used on speakers and sessio
 --cloud: #3f51b5;
 --community: #e91e63;
 --angular-js: #e0343d;
-... 
+...
 ```
 
 

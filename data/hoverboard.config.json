@@ -2,13 +2,13 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#2DDA76",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
           "title": "Javaneiros 2016",
-          "youtubeId": "DfMnJAzOFng",
+          "youtubeId": "ldfmiRfUxYc",
           "text": "Veja como foi em 2015"
         },
         "hideLogo": true,
@@ -17,21 +17,21 @@
     },
     "blog": {
       "headerSettings": {
-        "backgroundColor": "#03a9f4",
+        "backgroundColor": "#0D8B43",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "speakers": {
       "headerSettings": {
-        "backgroundColor": "#3f51b5",
+        "backgroundColor": "#005C9C",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "schedule": {
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#153871",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -45,7 +45,7 @@
     },
     "cod": {
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#2DDA76",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -139,38 +139,20 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "contato@javaneiros.com.br",
+        "url": "mailto:contato@javaneiros.com.br"
       }
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://doity.com.br/",
     "elements": [
       {
         "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
+        "price": "Gratuito",
+        "currency": "",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
         "soldOut": false
       }
     ]
@@ -195,7 +177,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "javaneiros2016",
   "social": [
     {
       "name": "twitter",
@@ -233,13 +215,13 @@
     "apiKey": "",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -20.502510,
+      "longitude": -54.613448,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -20.502510,
+      "longitude": -54.603448
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -247,9 +229,9 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=3Hbqxes6s50&list=FLbii03T5U9lNzXd77plvAVA",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "ldfmiRfUxYc"
   }
 }
