@@ -119,21 +119,6 @@
           "newTab": true
         }
       ]
-    },
-    {
-      "title": "for-partners",
-      "links": [
-        {
-          "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
-        }
-      ]
     }
   ],
   "contactBlock": {
@@ -181,23 +166,13 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
-    },
-    {
-      "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "Javaneiros",
+      "url": "https://twitter.com/javaneiros"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "Javaneiros",
+      "url": "https://www.facebook.com/javaneiros"
     }
   ],
   "tweetsSource": "/data/tweets.json",
