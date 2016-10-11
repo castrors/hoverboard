@@ -1,11 +1,58 @@
 [
+
   {
-    "title": "template-creator",
+    "title": "partners-gold",
     "logos": [
       {
+        "name": "AZ Informática",
+        "url": "http://www.azi.com.br",
+        "logoUrl": "../images/logos/azlogo3.png",
+        "width": 170
+      },
+      {
+        "name": "Elo7",
+        "url": "http://www.elo7.com.br",
+        "logoUrl": "../images/logos/elo7.png",
+        "width": 170
+      },
+      {
+        "name": "Moip",
+        "url": "https://www.moip.com.br",
+        "logoUrl": "../images/logos/moip.png",
+        "width": 170
+      },
+      {
         "name": "Oracle",
-        "url": "https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi--9Dp6aHPAhURrRQKHdgJBtYQFggwMAA&url=https%3A%2F%2Fwww.oracle.com%2Fbr%2F&usg=AFQjCNGiWoRfVik9vbu4r43aIJUdLDJkaw&sig2=3VTMST7YgM_8bGmFRf7-Fg",
+        "url": "https://www.oracle.com/br/index.html",
         "logoUrl": "../images/logos/oracle.svg",
+        "width": 170
+      }
+    ]
+  },
+  {
+    "title": "partners-bronze",
+    "logos": [
+      {
+        "name": "Jera",
+        "url": "http://jera.com.br",
+        "logoUrl": "../images/logos/jera.png",
+        "width": 170
+      }
+    ]
+  },
+  {
+    "title": "partners-supporters",
+    "logos": [
+      {
+        "name": "FACOM - UFMS",
+        "url": "http://facom.sites.ufms.br",
+        "logoUrl": "../images/logos/facom.png",
+        "width": 170
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com",
+        "logoUrl": "../images/logos/twitter.png",
         "width": 170
       }
     ]
