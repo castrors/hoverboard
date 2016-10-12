@@ -175,7 +175,7 @@
       "url": "https://www.facebook.com/javaneiros"
     }
   ],
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "https://javaneiros-tweets.herokuapp.com/tweetledee/searchjson.php?q=%23javaneiros2016&c=10&cache_interval=300",
   "gallery": {
     "albumUrl": "https://goo.gl/photos/y2Nt1X73HYJkrKgH7",
     "photos": {
