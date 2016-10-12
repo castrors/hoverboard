@@ -3,6 +3,7 @@ dist
 node_modules
 build
 .idea/
+firebase-debug.log
 
 
 # Created by https://www.gitignore.io/api/macos
