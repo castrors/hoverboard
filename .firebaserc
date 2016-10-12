@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "javaneiros-d26af"
+    "default": "javaneiros-d26af",
+    "javaneiros2016": "javaneiros-d26af"
   }
 }
