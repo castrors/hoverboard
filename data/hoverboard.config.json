@@ -188,7 +188,7 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "https://www.facebook.com/javaneiros",
     "pointer": {
       "latitude": -20.502510,
       "longitude": -54.613448,
@@ -199,9 +199,8 @@
       "longitude": -54.603448
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/location/facom1.jpg",
+      "/images/location/facom2.jpg"
     ]
   },
   "videosSessionsUrl": "https://www.youtube.com/watch?v=3Hbqxes6s50&list=FLbii03T5U9lNzXd77plvAVA",

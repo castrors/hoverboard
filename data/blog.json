@@ -7,5 +7,14 @@
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/c4p-is-open.jpg",
     "brief": "Pessoal, já está disponível o formulário para quem quiser submeter palestras para o Javaneiros 2016. É uma excelento oportunidade dos profissionais mostrarem seu trabalho e aumentar seu networking. [submissões de palestras](https://goo.gl/forms/XyfwBdoa3lSFvTdk1)"
+  },
+  {
+    "id": "registrations",
+    "title": "Inscrições abertas",
+    "posted": "2016-10-12",
+    "primaryColor": "#3F51B5",
+    "secondaryColor": "#3F51B5",
+    "image": "/images/posts/registration.jpg",
+    "brief": "As inscrições para o maior evento do centro-oeste brasileiro já estão abertas. Esse ano teremos muito conteúdo interessante, não perca tempo e se increva no link [Inscrições Javaneiros](https://www.doity.com.br/javaneiros2016)"
   }
 ]

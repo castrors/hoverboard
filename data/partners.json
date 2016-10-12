@@ -54,6 +54,11 @@
         "url": "https://twitter.com",
         "logoUrl": "../images/logos/twitter.png",
         "width": 170
+      },
+      {
+        "name": "Jug MS",
+        "logoUrl": "../images/logos/jugms.jpg",
+        "width": 170
       }
     ]
   }
