@@ -2,143 +2,98 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Mete Atamel",
-        "title": "Developer Advocate",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "London, United Kingdom",
-        "photoUrl": "/images/people/mete_atamel.jpg",
-        "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-        "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+        "name": "Augusto Sandim",
+        "company": "Jera",
+        "country": "Campo Grande, MS",
+        "companyLogo": "/images/logos/jera.png",
+        "photoUrl": "/images/people/augusto-sandim.jpg",
+        "shortBio": "Experiência com desenvolvimento de Web App usando javascript, com as principais ferramentas.",
+        "bio": "Experiência com desenvolvimento de Web App usando javascript, com as principais ferramentas.",
         "tags": [
-            "Cloud",
-            "Compute Engine",
-            "gRPC"
+            "progressive-web-apps",
+            "web"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meteatamel/"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/meteatamel/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/meteatamel/"
+                "link": "https://twitter.com/@augustosandim/"
             }
         ]
     },
     "2": {
         "id": 2,
         "featured": true,
-        "name": "Yonatan Levin",
-        "title": "Android Evangelist & Developer",
-        "company": "Gett",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Tel Aviv, Israel",
-        "photoUrl": "/images/people/yonatan_levin.jpg",
-        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-        "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+        "name": "Diogo Soares",
+        "company": "Jera",
+        "country": "Campo Grande, MS",
+        "companyLogo": "/images/logos/jera.png",
+        "photoUrl": "/images/people/diogo-soares.jpg",
+        "shortBio": "Líder de desenvolvimento Web da Jera, com experiência de mais de 3 anos no desenvolvimento de aplicação em Ruby on Rails.",
+        "bio": "Líder de desenvolvimento Web da Jera, com experiência de mais de 3 anos no desenvolvimento de aplicação em Ruby on Rails.",
         "tags": [
-            "Android",
-            "Doze",
-            "Mobile UX",
-            "Entrepreneurship"
+            "Web"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
-            }
+
         ],
         "socials": [
             {
                 "icon": "facebook",
                 "name": "Facebook",
-                "link": "https://www.facebook.com/levin.yonatan"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/parahall"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+YonatanLevin"
+                "link": "https://www.facebook.com/diogo.soares.9081"
             }
         ]
     },
     "3": {
         "id": 3,
         "featured": true,
-        "name": "Sascha Wolter",
-        "title": "Senior Developer Evangelist Connected Home",
-        "company": "Duetsche Telekom AG - Group Innovation+",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Munich and Dusseldorf, Germany",
-        "photoUrl": "/images/people/sascha_wolter.jpg",
-        "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-        "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+        "name": "Glauber Laender",
+        "company": "UXPERTS",
+        "companyLogo": "/images/logo.sgv",
+        "country": "Campo Grande, MS",
+        "photoUrl": "/images/people/glauber-laender.jpg",
+        "shortBio": "UX Designer na UXPERTS e Líder local do IxDA Campo Grande. Trabalha e estuda o assunto há 9 anos e ministra cursos sobre disciplinas que envolvam o Design Centrado no Usuário.",
+        "bio": "UX Designer na UXPERTS e Líder local do IxDA Campo Grande. Trabalha e estuda o assunto há 9 anos e ministra cursos sobre disciplinas que envolvam o Design Centrado no Usuário.",
         "tags": [
-            "Web",
-            "IoT",
-            "Smart Home"
+            "UX/UI"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://www.wolter.biz"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/saschawolter"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "http://www.linkedin.com/pub/sascha-wolter/5/a38/493"
+                "link": "http://twitter.com/@glauberlaender"
             }
         ]
     },
     "4": {
         "id": 4,
         "featured": true,
-        "name": "Rustem Arzymbetov",
-        "title": "Software Engineer",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Mountain View, United States",
-        "photoUrl": "/images/people/rustem_arzymbetov.jpg",
-        "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
-        "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
+        "name": "Higor Nucci",
+        "title": "Artesão de Softwares",
+        "company": "DígithoBrasil",
+        "companyLogo": "/images/logo.sgv",
+        "country": "Campo Grande, MS",
+        "photoUrl": "/images/people/higor-nucci.jpg",
+        "shortBio": "Trabalho como Artesão de Softwares na DígithoBrasil a quatro anos e tenho experiência com métodos ágeis ...",
+        "bio": "Trabalho como Artesão de Softwares na DígithoBrasil a quatro anos e tenho experiência com métodos ágeis e programação Java a mais de 6 anos. Como todo bom artesão, eu luto para proporcionar aos meus clientes a melhor experiência possível no uso do produto entregue. No caso de Softwares, além de cuidar para que o produto não apresente falhas de código backend, participo ativamente em discussões de jornada do usuário, usabilidade, prototipagem e na maioria das discussões que envolvem alguma interação dos usuários com a funcionalidade a ser projetada.",
         "tags": [
-            "Cloud",
-            "Performance",
-            "TensorFlow"
+            "Desenvolvimento"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/102117493667558776856"
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/@higornucci"
             }
         ]
     },
