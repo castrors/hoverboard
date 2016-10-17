@@ -16,7 +16,7 @@
          "title": "Keynote - Oracle",
          "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
          "speakers": [
-             27
+             1
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -28,7 +28,7 @@
          "title": "Moip - Android - Caue Ferreira",
          "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
          "speakers": [
-             27
+             1
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -90,7 +90,7 @@
          "title": "Elo 7",
          "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
          "speakers": [
-             27
+             1
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -157,7 +157,7 @@
          "title": "Ambiente de Desenvolvimento Java para Web",
          "description": "Configuração e utilização de uma arquitetura básica para o desenvolvimento de um middleware Java voltado para web em uma perspectiva para iniciantes.",
          "speakers": [
-             27
+             10
          ],
          "complexity": "Iniciantes",
          "tags": [
@@ -169,7 +169,7 @@
          "title": "Escalando o processamento de dados com Apache Kafka",
          "description": "Essa sessão apresentará as características do Apache Kafka e como utilizá-lo para construir um pipeline de processamento distribuído e escalável.",
          "speakers": [
-             27
+             11
          ],
          "complexity": "Iniciantes",
          "tags": [
@@ -181,7 +181,7 @@
          "title": "Chatops na prática: Aumentando o desempenho de seu time",
          "description": "Muitos times gastam muito tempo com tarefas repetitivas e manuais sendo que poderiam automatizar várias delas para ganhar tempo e entregar mais valor ao cliente. Nessa sessão vamos conversar sobre o tema CHATOPS, e como ele pode ajudar os times no seu dia-a-dia.",
          "speakers": [
-             27
+             12
          ],
          "complexity": "Iniciantes",
          "tags": [
@@ -193,7 +193,7 @@
          "title": "Desenvolvendo Web Apps com EmberJS",
          "description": "EmberJS é um poderoso framework para desenvolvimento de Web Apps. Vamos conhecer um pouco sobre o ele enquanto desenvolvemos um App para o Javaneiros!",
          "speakers": [
-             27
+             13
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -205,7 +205,7 @@
          "title": "Iniciando com Docker",
          "description": "Nesta palestra vamos ver como o docker pode nos ajudar a levantar um ambiente para testes e homologações de sistemas, de forma rápida e muito prática. Vamos aprender a montar um Dockerfile com base numa imagem oficial, realizar a build de um container e criar as nossas próprias images. E enviar para o docker hub. Como exemplo prático vamos montar um conjunto de 6 containers sendo um cluster de 3 servidor de aplicação (com replicação de sessão entre eles), um serviço de banco de dados (MySQL), um balanceador de carga (NGinx) e um acelerador de conteúdo HTTP (varnish-cache).",
          "speakers": [
-             27
+             14
          ],
          "complexity": "Iniciantes",
          "tags": [
@@ -217,7 +217,7 @@
          "title": "Mesa redonda",
          "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
          "speakers": [
-             27
+             1
          ],
          "complexity": "Praticantes",
          "tags": [
