@@ -53,7 +53,7 @@
         "featured": true,
         "name": "Glauber Laender",
         "company": "UXPERTS",
-        "companyLogo": "/images/logo.sgv",
+        "companyLogo": "/images/logo.svg",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/glauber-laender.jpg",
         "shortBio": "UX Designer na UXPERTS e Líder local do IxDA Campo Grande. Trabalha e estuda o assunto há 9 anos e ministra cursos sobre disciplinas que envolvam o Design Centrado no Usuário.",
@@ -76,9 +76,8 @@
         "id": 4,
         "featured": true,
         "name": "Higor Nucci",
-        "title": "Artesão de Softwares",
         "company": "DígithoBrasil",
-        "companyLogo": "/images/logo.sgv",
+        "companyLogo": "/images/logo.svg",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/higor-nucci.jpg",
         "shortBio": "Trabalho como Artesão de Softwares na DígithoBrasil a quatro anos e tenho experiência com métodos ágeis ...",
@@ -100,181 +99,156 @@
     "5": {
         "id": 5,
         "featured": true,
-        "name": "Adrian Kajda",
-        "title": "Product Manager/Developer",
-        "company": "Sygic",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Opole, Poland",
-        "photoUrl": "/images/people/adrian_kajda.jpg",
-        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "name": "Rodrigo Castro",
+        "company": "Rede Tendência",
+        "companyLogo": "/images/logo.svg",
+        "country": "Campo Grande, MS",
+        "photoUrl": "/images/people/rodrigo-castro.jpg",
+        "shortBio": "Trabalho profissionalmente com desenvolvimento de Android nativo desde outubro de 2014...",
+        "bio": "Trabalho profissionalmente com desenvolvimento de Android nativo desde outubro de 2014. Trabalhei na Jera por um ano e meio e atualmente trabalho na Rede Tendência, focado em um dos produtos o qual é um sistema de força de vendas desenvolvido em Android nativo.",
         "tags": [
             "Android",
-            "Entrepreneurship"
+            "Desenvolvimento"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "plus.google.com/+AdrianKajda"
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/@rodrigocastro_o"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/rodrigodesouzacastro"
+            }, 
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/castrors"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://br.linkedin.com/in/castrodev"
             }
         ]
     },
     "6": {
         "id": 6,
         "featured": true,
-        "name": "Gerard Sans",
-        "title": "Technical Evangelist",
-        "company": "AngularZone",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "London, United Kingdom",
-        "photoUrl": "/images/people/gerard_sans.jpg",
-        "shortBio": "Angular Google Developer Expert. International speaker and trainer.  Enjoy running AngularLabs London.",
-        "bio": "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
+        "name": "Alessandro Ferreira",
+        "company": "Rede Tendência",
+        "companyLogo": "/images/logo.svg",
+        "country": "Campo Grande - MS",
+        "photoUrl": "/images/people/alessandro-ferreira.png",
+        "shortBio": "Campeão regional e vigésimo sexto no nacional no ACM ICPC 2007. Vice campeão regional no ACM ICPC 2008 e 2009...",
+        "bio": "Campeão regional e vigésimo sexto no nacional no ACM ICPC 2007. Vice campeão regional no ACM ICPC 2008 e 2009. Competidor regular do Google Code Jam, além de online judges como SPOJ e UVA Online Judge.",
         "tags": [
-            "Web",
-            "Angular",
-            "Progressive Web Apps"
+            "Desenvolvimento"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Angular Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/gerard-sans.html"
-            }
+        
         ],
         "socials": [
             {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/gerardsans"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://medium.com/@gerard.sans"
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/alessandro.snts.ferreira"
             }
         ]
     },
     "7": {
         "id": 7,
         "featured": true,
-        "name": "Jozef Vodicka",
-        "title": "Developer Relations Program Manager",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jozef_vodicka.jpg",
-        "shortBio": "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
-        "bio": "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
+        "name": "Virmerson",
+        "company" : "Hightech Cursos",
+        "companyLogo": "/images/logo.svg",
+        "country": "Campo Grande, MS",
+        "photoUrl": "/images/people/virmerson.jpg",
+        "shortBio": "1 ano e seis meses utilizando Spring Boot em treinamentos e desenvolvimento.",
+        "bio": "1 ano e seis meses utilizando Spring Boot em treinamentos e desenvolvimento.",
         "tags": [
-            "Cloud",
-            "Firebase"
+            "Desenvolvimento"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/jozefvodicka"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/jozefvodicka"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JozefVodicka"
+                "link": "https://twitter.com/virmerson"
             },
             {
                 "icon": "facebook",
                 "name": "Facebook",
-                "link": "https://www.facebook.com/jozef.vodicka"
+                "link": "https://www.facebook.com/virmerson"
             }
         ]
     },
     "8": {
         "id": 8,
         "featured": true,
-        "name": "Mateusz Herych",
-        "title": "Android Tech Lead",
-        "company": "IG",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Krakow, Poland",
-        "photoUrl": "/images/people/mateusz_herych.jpg",
-        "shortBio": "3x rockstar of DevFest Ukraine stage. Android GDE. Co-organizer of GDG Krakow.",
-        "bio": "Mateusz lives in Krakow, holds a membership in the Google Developer Expert program for Android. Works as an Android Tech Lead at IG. Co-organizer of GDG Krakow community meetups. Fresh dad of twins. For the third time at DevFest Ukraine.",
+        "name": "Willian Martins",
+        "company": "Rede Tendência",
+        "companyLogo": "/images/logo.svg",
+        "country": "Campo Grande, MS",
+        "photoUrl": "/images/people/willian-martins.jpg",
+        "shortBio": "Backend Dev, na maior parte do tempo em Scala e Java. Entusiasta de Programação Funcional e atualmente desenvolvendo algumas novelas com Akka.",
+        "bio": "Backend Dev, na maior parte do tempo em Scala e Java. Entusiasta de Programação Funcional e atualmente desenvolvendo algumas novelas com Akka.",
         "tags": [
-            "Android",
-            "Android",
-            "Design Patterns",
-            "Libraries"
+            "Desenvolvimento"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/img/user/108555637824110226040.png"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Krakow",
-                "link": "https://developers.google.com/groups/directory/"
-            }
+        
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+MateuszHerych"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/mherych"
+                "link": "https://twitter.com/wilhelmmartt"
             },
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/herych"
+                "link": "https://br.linkedin.com/in/willianmartins"
             }
         ]
     },
     "9": {
         "id": 9,
         "featured": false,
-        "name": "David Mayboroda",
-        "title": "Android Engineer",
-        "company": "SoftServe",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Kyiv, Ukraine",
-        "photoUrl": "/images/people/david_mayboroda.jpg",
-        "shortBio": "Ex Yandex emproyee. Android enthusiast.",
-        "bio": "Ex-Yandex emploee, currently Android Engineer at SoftServe.",
+        "name": "Fernando Maia",
+        "company": "BovBI",
+        "companyLogo": "/images/logo.svg",
+        "country": "Campo Grande, MS",
+        "photoUrl": "/images/people/fernando-maia.jpg",
+        "shortBio": "5 anos de experiência como analista e desenvolvedor de Business Intelligence. Mestrando em computação ...",
+        "bio": "5 anos de experiência como analista e desenvolvedor de Business Intelligence. Mestrando em computação com foco em data mining. Atualmente gerente de projetos na Bov BI (bovbi.com.br). Membro atuante da comunidade Pentaho no Brasil. Autor e Mantenedor dos seguintes plugins da plataforma Web de BI da Pentaho: \n* Pentaho CE Audit (https://sourceforge.net/projects/pentahoceaudit/)\n* Pentaho Performance Monitoring (https://sourceforge.net/projects/pentaho-performance-monitoring/)\n* Kettle Web Integrator (https://sourceforge.net/projects/kettle-web-integrator/)\n* Saiku chart plus (https://sourceforge.net/projects/saikuchartplus/)",
         "tags": [
-            "Android",
-            "Dagger 2"
+            "Desenvolvimento"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/profile.php?id=100008474898785"
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/fernandommota"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://br.linkedin.com/in/fernandommota"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/dmayboroda"
+                "link": "https://github.com/fernandommota"
             }
         ]
     },
