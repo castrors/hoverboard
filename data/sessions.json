@@ -28,7 +28,7 @@
          "title": "Moip - Android - Caue Ferreira",
          "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
          "speakers": [
-             1
+             101
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -40,7 +40,7 @@
          "title": "Offline-first Progressive Web Apps",
          "description": "Abordar sobre offline-first em web apps desenvolvidas com Javascript.",
          "speakers": [
-             1
+             201
          ],
          "complexity": "Profissionais",
          "tags": [
@@ -52,7 +52,7 @@
          "title": "Como deixar seu Back-end enxuto",
          "description": "O desenvolvimento do back-end de aplicações grandes pode ser muito caótico, ainda mais quando não se utiliza uma arquitetura escalável. O velho e conhecido MVC já é famoso por ser uma arquitetura simples de entender e que ajuda a manter o código mais organizado. Mas e quando o projeto começa a ficar muito grande o MVC começa a não ser mais suficiente para organizar tudo isso, vamos ver algumas técnicas (com Ruby on Rails) e práticas para evitar esse problema e deixar seu projeto mais escalável e organizado.",
          "speakers": [
-             2
+             202
          ],
          "complexity": "Profissionais",
          "tags": [
@@ -64,8 +64,8 @@
          "title": "Dev who Designs",
          "description": "Existe um mito de que Design é tela bonita. Design é um processo complexo de imersão no problema a ser resolvido e um design bem feito soluciona algo. Desta forma Design não é necessariamente papel de um designer, mas Desenvolvedores podem ajudar a desenhar uma solução matadora de problemas. Veja na visão de um Designer e de um Desenvolvedor como isso pode ser feito em conjunto no dia-a-dia do nosso trabalho.",
          "speakers": [
-             3,
-             4
+             203,
+             204
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -77,7 +77,7 @@
          "title": "Usando Gradle a seu favor",
          "description": "Entenda como funciona o Gradle em seu projeto Android e veja o que é possível de ser feito para tornar o seu dia a dia mais produtivo.",
          "speakers": [
-             5
+             205
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -102,7 +102,7 @@
          "title": "Competitive Programming: The Art of Programming Contest",
          "description": "Uma introdução sobre a programação competitiva, uma ferramenta de contratação de grandes empresas como IBM, Google e Facebook, através de competições como Google Code Jam e ACM ICPC.",
          "speakers": [
-             6
+             206
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -114,7 +114,7 @@
          "title": " Spring Boot - Integrando Frameworks de forma fácil",
          "description": "Acelere o desenvolvimento Java Web com Spring Boot Framework. Veja como integrar de forma fácil diversos frameworks tais como JPA/hibernate, AssertJ, JSF, Lombok, Restful utilizando o Spring Boot Frameworks.",
          "speakers": [
-             7
+             207
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -132,7 +132,7 @@
          "title": "Scalando soluções com Akka",
          "description": "O modelo de atores tem ganhado muita atenção no desenvolvimento de sistemas distribuídos como uma alternativa ao uso de threads. Akka traz esse modelo para Java/Scala fornecendo um framework completo para o desenvolvimento de sistemas distribuídos resilientes, escaláveis e responsivos. Nesta palestra vamos mostrar o uso do Akka, suas APIs e projetos top-level.",
          "speakers": [
-             8
+             208
          ],
          "complexity": "Profissionais",
          "tags": [
@@ -144,7 +144,7 @@
          "title": "Inteligência na tomada de decisão e agronegócio: um estudo de caso no setor da pecuária",
          "description": "Nesta palestra serão apresentados os principais conceitos de Business Intelligence ou inteligência nos negócios através de um estudo de caso no setor da agropecuária, por meio desse estudo de caso serão abordados conceitos como Data Warehouse e Data Mart, além da apresentação de todo um ecossistema de ferramentas open source escritas em JAVA que podem ser utilizadas no processo de análise e tomada de decisão de empresas privadas e orgãos públicos.",
          "speakers": [
-             9
+             209
          ],
          "complexity": "Iniciantes",
          "tags": [
@@ -157,7 +157,7 @@
          "title": "Ambiente de Desenvolvimento Java para Web",
          "description": "Configuração e utilização de uma arquitetura básica para o desenvolvimento de um middleware Java voltado para web em uma perspectiva para iniciantes.",
          "speakers": [
-             10
+             210
          ],
          "complexity": "Iniciantes",
          "tags": [
@@ -169,7 +169,7 @@
          "title": "Escalando o processamento de dados com Apache Kafka",
          "description": "Essa sessão apresentará as características do Apache Kafka e como utilizá-lo para construir um pipeline de processamento distribuído e escalável.",
          "speakers": [
-             11
+             211
          ],
          "complexity": "Iniciantes",
          "tags": [
@@ -181,7 +181,7 @@
          "title": "Chatops na prática: Aumentando o desempenho de seu time",
          "description": "Muitos times gastam muito tempo com tarefas repetitivas e manuais sendo que poderiam automatizar várias delas para ganhar tempo e entregar mais valor ao cliente. Nessa sessão vamos conversar sobre o tema CHATOPS, e como ele pode ajudar os times no seu dia-a-dia.",
          "speakers": [
-             12
+             212
          ],
          "complexity": "Iniciantes",
          "tags": [
@@ -193,7 +193,7 @@
          "title": "Desenvolvendo Web Apps com EmberJS",
          "description": "EmberJS é um poderoso framework para desenvolvimento de Web Apps. Vamos conhecer um pouco sobre o ele enquanto desenvolvemos um App para o Javaneiros!",
          "speakers": [
-             13
+             213
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -205,7 +205,7 @@
          "title": "Iniciando com Docker",
          "description": "Nesta palestra vamos ver como o docker pode nos ajudar a levantar um ambiente para testes e homologações de sistemas, de forma rápida e muito prática. Vamos aprender a montar um Dockerfile com base numa imagem oficial, realizar a build de um container e criar as nossas próprias images. E enviar para o docker hub. Como exemplo prático vamos montar um conjunto de 6 containers sendo um cluster de 3 servidor de aplicação (com replicação de sessão entre eles), um serviço de banco de dados (MySQL), um balanceador de carga (NGinx) e um acelerador de conteúdo HTTP (varnish-cache).",
          "speakers": [
-             14
+             214
          ],
          "complexity": "Iniciantes",
          "tags": [

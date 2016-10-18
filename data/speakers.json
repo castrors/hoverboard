@@ -1,7 +1,7 @@
 {
-    "1": {
-        "id": 1,
-        "featured": true,
+    "201": {
+        "id": 201,
+        "featured": false,
         "name": "Augusto Sandim",
         "company": "Jera",
         "country": "Campo Grande, MS",
@@ -24,9 +24,9 @@
             }
         ]
     },
-    "2": {
-        "id": 2,
-        "featured": true,
+    "202": {
+        "id": 202,
+        "featured": false,
         "name": "Diogo Soares",
         "company": "Jera",
         "country": "Campo Grande, MS",
@@ -48,12 +48,12 @@
             }
         ]
     },
-    "3": {
-        "id": 3,
-        "featured": true,
+    "203": {
+        "id": 203,
+        "featured": false,
         "name": "Glauber Laender",
         "company": "UXPERTS",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/glauber-laender.jpg",
         "shortBio": "UX Designer na UXPERTS e Líder local do IxDA Campo Grande. Trabalha e estuda o assunto há 9 anos e ministra cursos sobre disciplinas que envolvam o Design Centrado no Usuário.",
@@ -72,12 +72,12 @@
             }
         ]
     },
-    "4": {
-        "id": 4,
+    "204": {
+        "id": 204,
         "featured": false,
         "name": "Higor Nucci",
         "company": "DígithoBrasil",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "/images/logos/digithobrasil.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/higor-nucci.jpg",
         "shortBio": "Trabalho como Artesão de Softwares na DígithoBrasil a quatro anos e tenho experiência com métodos ágeis ...",
@@ -96,12 +96,12 @@
             }
         ]
     },
-    "5": {
-        "id": 5,
+    "205": {
+        "id": 205,
         "featured": false,
         "name": "Rodrigo Castro",
         "company": "Rede Tendência",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "/images/logos/tendencia.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/rodrigo-castro.jpg",
         "shortBio": "Trabalho profissionalmente com desenvolvimento de Android nativo desde outubro de 2014...",
@@ -136,12 +136,12 @@
             }
         ]
     },
-    "6": {
-        "id": 6,
+    "206": {
+        "id": 206,
         "featured": false,
         "name": "Alessandro Ferreira",
         "company": "Rede Tendência",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "/images/logos/tendencia.png",
         "country": "Campo Grande - MS",
         "photoUrl": "/images/people/alessandro-ferreira.jpg",
         "shortBio": "Campeão regional e vigésimo sexto no nacional no ACM ICPC 2007. Vice campeão regional no ACM ICPC 2008 e 2009...",
@@ -160,12 +160,12 @@
             }
         ]
     },
-    "7": {
-        "id": 7,
+    "207": {
+        "id": 207,
         "featured": false,
         "name": "Virmerson",
         "company" : "Hightech Cursos",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "/images/logos/hightech.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/virmerson.jpg",
         "shortBio": "1 ano e seis meses utilizando Spring Boot em treinamentos e desenvolvimento.",
@@ -189,12 +189,12 @@
             }
         ]
     },
-    "8": {
-        "id": 8,
+    "208": {
+        "id": 208,
         "featured": false,
         "name": "Willian Martins",
         "company": "Rede Tendência",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "/images/logos/tendencia.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/willian-martins.jpg",
         "shortBio": "Backend Dev, na maior parte do tempo em Scala e Java. Entusiasta de Programação Funcional e atualmente desenvolvendo algumas novelas com Akka.",
@@ -218,12 +218,12 @@
             }
         ]
     },
-    "9": {
-        "id": 9,
+    "209": {
+        "id": 209,
         "featured": false,
         "name": "Fernando Maia",
         "company": "BovBI",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "/images/logos/bovbi.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/fernando-maia.jpg",
         "shortBio": "5 anos de experiência como analista e desenvolvedor de Business Intelligence. Mestrando em computação ...",
@@ -252,12 +252,12 @@
             }
         ]
     },
-    "10": {
-        "id": 10,
+    "210": {
+        "id": 210,
         "featured": false,
         "name": "Abner Fernandes",
         "company": "",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/abner-fernandes.jpg",
         "shortBio": "Tecnólogo em Análise e Desenvolvimento de Sistemas. Pós graduado em Engenharia de Software...",
@@ -276,12 +276,12 @@
           }
         ]
     },
-    "11": {
-        "id": 11,
+    "211": {
+        "id": 211,
         "featured": false,
         "name": "João Bosco Monteiro",
         "company": "",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/joaobosco-monteiro.jpg",
         "shortBio": "Já atuo com mensageria a bastante tempo e agora estou utilizando o Apache Kafka...",
@@ -300,12 +300,12 @@
             }
         ]
     },
-    "12": {
-        "id": 12,
+    "212": {
+        "id": 212,
         "featured": false,
         "name": "Thiago Fortes",
         "company": "DígithoBrasil",
-        "companyLogo": "/images/logo.svg",
+        "companyLogo": "/images/logos/digithobrasil.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/thiago-fortes.jpg",
         "shortBio": "Faço uso dessa tecnologia no meu dia-a-dia a alguns meses. Já apresentei essa sessão no TDC SP 2016 e TDC POA 2016.",
@@ -324,8 +324,8 @@
             }
         ]
     },
-    "13": {
-        "id": 13,
+    "213": {
+        "id": 213,
         "featured": false,
         "name": "Nicolas Lima",
         "company": "Jera",
@@ -353,12 +353,12 @@
             }
         ]
     },
-    "14": {
-        "id": 14,
+    "214": {
+        "id": 214,
         "featured": false,
         "name": "Anselmo Pfeifer",
-        "company": "",
-        "companyLogo": "/images/logo.svg",
+        "company": "TecSinapse",
+        "companyLogo": "/images/logos/tecsinapse.svg",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/anselmo-pfeifer.jpg",
         "shortBio": "Não sou um expert no assunto, mas em pouco tempo de estudo (3 meses) consegui definir uma arquitetura inicialmente para usarmos em homologação.",
@@ -379,6 +379,31 @@
                 "icon": "facebook",
                 "name": "Facebook",
                 "link": "https://www.facebook.com/AnselmoPfeifer"
+            }
+        ]
+    },
+    "101": {
+        "id": 101,
+        "featured": true,
+        "name": "Cauê Ferreira",
+        "company": "Moip Pagamentos",
+        "companyLogo": "/images/logos/moip.png",
+        "country": "São Paulo, SP",
+        "photoUrl": "/images/people/caue-ferreira.jpg",
+        "shortBio": "Desenvolvedor de software a 7 anos, trabalha com desenvolvimento móvel desde o início de sua carreira. Atualmente, trabalha no Moip com desenvolvimento mobile e server side.",
+        "bio": "Desenvolvedor de software a 7 anos, trabalha com desenvolvimento móvel desde o início de sua carreira. Atualmente, trabalha no Moip com desenvolvimento mobile e server side.",
+        "tags": [
+            "Android",
+            "Desenvolvimento"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/caueferreira"
             }
         ]
     }
