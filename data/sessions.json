@@ -87,14 +87,14 @@
      },
      "309": {
          "id": 309,
-         "title": "Elo 7",
-         "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+         "title": "Implementando chat real-time no Elo7",
+         "description": "Descubra como utilizar JavaScript isomórfico em soluções de real-time.",
          "speakers": [
-             1
+             102
          ],
          "complexity": "Praticantes",
          "tags": [
-             "Android"
+             "Desenvolvimento"
          ]
      },
      "310": {
@@ -154,7 +154,7 @@
      },
      "315": {
          "id": 315,
-         "title": "Ambiente de Desenvolvimento Java para Web",
+         "title": "Montando uma arquitetura web com JavaEE 7",
          "description": "Configuração e utilização de uma arquitetura básica para o desenvolvimento de um middleware Java voltado para web em uma perspectiva para iniciantes.",
          "speakers": [
              210
@@ -214,14 +214,14 @@
      },
      "320": {
          "id": 320,
-         "title": "Mesa redonda",
-         "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+         "title": "Mesa Redonda - Carreira",
+         "description": "Vamos receber diversos profissionais com trajetórias de sucesso que irão dar dicas e discutir o que é necessário para ser tornar um excelente profissional de TI.",
          "speakers": [
              1
          ],
          "complexity": "Praticantes",
          "tags": [
-             "Android"
+             "Carreira"
          ]
      },
      "321": {

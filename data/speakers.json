@@ -7,8 +7,8 @@
         "country": "Campo Grande, MS",
         "companyLogo": "/images/logos/jera.png",
         "photoUrl": "/images/people/augusto-sandim.jpg",
-        "shortBio": "Experiência com desenvolvimento de Web App usando javascript, com as principais ferramentas.",
-        "bio": "Experiência com desenvolvimento de Web App usando javascript, com as principais ferramentas.",
+        "shortBio22": "Experiência com desenvolvimento de Web App usando javascript, com as principais ferramentas.",
+        "bio2": "Experiência com desenvolvimento de Web App usando javascript, com as principais ferramentas.",
         "tags": [
             "progressive-web-apps",
             "web"
@@ -32,8 +32,8 @@
         "country": "Campo Grande, MS",
         "companyLogo": "/images/logos/jera.png",
         "photoUrl": "/images/people/diogo-soares.jpg",
-        "shortBio": "Líder de desenvolvimento Web da Jera, com experiência de mais de 3 anos no desenvolvimento de aplicação em Ruby on Rails.",
-        "bio": "Líder de desenvolvimento Web da Jera, com experiência de mais de 3 anos no desenvolvimento de aplicação em Ruby on Rails.",
+        "shortBio2": "Líder de desenvolvimento Web da Jera, com experiência de mais de 3 anos no desenvolvimento de aplicação em Ruby on Rails.",
+        "bio22": "Líder de desenvolvimento Web da Jera, com experiência de mais de 3 anos no desenvolvimento de aplicação em Ruby on Rails.",
         "tags": [
             "Web"
         ],
@@ -56,8 +56,8 @@
         "companyLogo": "",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/glauber-laender.jpg",
-        "shortBio": "UX Designer na UXPERTS e Líder local do IxDA Campo Grande. Trabalha e estuda o assunto há 9 anos e ministra cursos sobre disciplinas que envolvam o Design Centrado no Usuário.",
-        "bio": "UX Designer na UXPERTS e Líder local do IxDA Campo Grande. Trabalha e estuda o assunto há 9 anos e ministra cursos sobre disciplinas que envolvam o Design Centrado no Usuário.",
+        "shortBio2": "UX Designer na UXPERTS e Líder local do IxDA Campo Grande. Trabalha e estuda o assunto há 9 anos e ministra cursos sobre disciplinas que envolvam o Design Centrado no Usuário.",
+        "bio2": "UX Designer na UXPERTS e Líder local do IxDA Campo Grande. Trabalha e estuda o assunto há 9 anos e ministra cursos sobre disciplinas que envolvam o Design Centrado no Usuário.",
         "tags": [
             "UX/UI"
         ],
@@ -80,8 +80,8 @@
         "companyLogo": "/images/logos/digithobrasil.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/higor-nucci.jpg",
-        "shortBio": "Trabalho como Artesão de Softwares na DígithoBrasil a quatro anos e tenho experiência com métodos ágeis ...",
-        "bio": "Trabalho como Artesão de Softwares na DígithoBrasil a quatro anos e tenho experiência com métodos ágeis e programação Java a mais de 6 anos. Como todo bom artesão, eu luto para proporcionar aos meus clientes a melhor experiência possível no uso do produto entregue. No caso de Softwares, além de cuidar para que o produto não apresente falhas de código backend, participo ativamente em discussões de jornada do usuário, usabilidade, prototipagem e na maioria das discussões que envolvem alguma interação dos usuários com a funcionalidade a ser projetada.",
+        "shortBio2": "Trabalho como Artesão de Softwares na DígithoBrasil a quatro anos e tenho experiência com métodos ágeis ...",
+        "bio2": "Trabalho como Artesão de Softwares na DígithoBrasil a quatro anos e tenho experiência com métodos ágeis e programação Java a mais de 6 anos. Como todo bom artesão, eu luto para proporcionar aos meus clientes a melhor experiência possível no uso do produto entregue. No caso de Softwares, além de cuidar para que o produto não apresente falhas de código backend, participo ativamente em discussões de jornada do usuário, usabilidade, prototipagem e na maioria das discussões que envolvem alguma interação dos usuários com a funcionalidade a ser projetada.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -104,8 +104,8 @@
         "companyLogo": "/images/logos/tendencia.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/rodrigo-castro.jpg",
-        "shortBio": "Trabalho profissionalmente com desenvolvimento de Android nativo desde outubro de 2014...",
-        "bio": "Trabalho profissionalmente com desenvolvimento de Android nativo desde outubro de 2014. Trabalhei na Jera por um ano e meio e atualmente trabalho na Rede Tendência, focado em um dos produtos o qual é um sistema de força de vendas desenvolvido em Android nativo.",
+        "shortBio2": "Trabalho profissionalmente com desenvolvimento de Android nativo desde outubro de 2014...",
+        "bio2": "Trabalho profissionalmente com desenvolvimento de Android nativo desde outubro de 2014. Trabalhei na Jera por um ano e meio e atualmente trabalho na Rede Tendência, focado em um dos produtos o qual é um sistema de força de vendas desenvolvido em Android nativo.",
         "tags": [
             "Android",
             "Desenvolvimento"
@@ -144,8 +144,8 @@
         "companyLogo": "/images/logos/tendencia.png",
         "country": "Campo Grande - MS",
         "photoUrl": "/images/people/alessandro-ferreira.jpg",
-        "shortBio": "Campeão regional e vigésimo sexto no nacional no ACM ICPC 2007. Vice campeão regional no ACM ICPC 2008 e 2009...",
-        "bio": "Campeão regional e vigésimo sexto no nacional no ACM ICPC 2007. Vice campeão regional no ACM ICPC 2008 e 2009. Competidor regular do Google Code Jam, além de online judges como SPOJ e UVA Online Judge.",
+        "shortBio2": "Campeão regional e vigésimo sexto no nacional no ACM ICPC 2007. Vice campeão regional no ACM ICPC 2008 e 2009...",
+        "bio2": "Campeão regional e vigésimo sexto no nacional no ACM ICPC 2007. Vice campeão regional no ACM ICPC 2008 e 2009. Competidor regular do Google Code Jam, além de online judges como SPOJ e UVA Online Judge.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -168,8 +168,8 @@
         "companyLogo": "/images/logos/hightech.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/virmerson.jpg",
-        "shortBio": "1 ano e seis meses utilizando Spring Boot em treinamentos e desenvolvimento.",
-        "bio": "1 ano e seis meses utilizando Spring Boot em treinamentos e desenvolvimento.",
+        "shortBio2": "1 ano e seis meses utilizando Spring Boot em treinamentos e desenvolvimento.",
+        "bio2": "1 ano e seis meses utilizando Spring Boot em treinamentos e desenvolvimento.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -197,8 +197,8 @@
         "companyLogo": "/images/logos/tendencia.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/willian-martins.jpg",
-        "shortBio": "Backend Dev, na maior parte do tempo em Scala e Java. Entusiasta de Programação Funcional e atualmente desenvolvendo algumas novelas com Akka.",
-        "bio": "Backend Dev, na maior parte do tempo em Scala e Java. Entusiasta de Programação Funcional e atualmente desenvolvendo algumas novelas com Akka.",
+        "shortBio2": "Backend Dev, na maior parte do tempo em Scala e Java. Entusiasta de Programação Funcional e atualmente desenvolvendo algumas novelas com Akka.",
+        "bio2": "Backend Dev, na maior parte do tempo em Scala e Java. Entusiasta de Programação Funcional e atualmente desenvolvendo algumas novelas com Akka.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -226,8 +226,8 @@
         "companyLogo": "/images/logos/bovbi.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/fernando-maia.jpg",
-        "shortBio": "5 anos de experiência como analista e desenvolvedor de Business Intelligence. Mestrando em computação ...",
-        "bio": "5 anos de experiência como analista e desenvolvedor de Business Intelligence. Mestrando em computação com foco em data mining. Atualmente gerente de projetos na Bov BI (bovbi.com.br). Membro atuante da comunidade Pentaho no Brasil. Autor e Mantenedor dos seguintes plugins da plataforma Web de BI da Pentaho: \n* Pentaho CE Audit (https://sourceforge.net/projects/pentahoceaudit/)\n* Pentaho Performance Monitoring (https://sourceforge.net/projects/pentaho-performance-monitoring/)\n* Kettle Web Integrator (https://sourceforge.net/projects/kettle-web-integrator/)\n* Saiku chart plus (https://sourceforge.net/projects/saikuchartplus/)",
+        "shortBio2": "5 anos de experiência como analista e desenvolvedor de Business Intelligence. Mestrando em computação ...",
+        "bio2": "5 anos de experiência como analista e desenvolvedor de Business Intelligence. Mestrando em computação com foco em data mining. Atualmente gerente de projetos na Bov BI (bovbi.com.br). Membro atuante da comunidade Pentaho no Brasil. Autor e Mantenedor dos seguintes plugins da plataforma Web de BI da Pentaho: \n* Pentaho CE Audit (https://sourceforge.net/projects/pentahoceaudit/)\n* Pentaho Performance Monitoring (https://sourceforge.net/projects/pentaho-performance-monitoring/)\n* Kettle Web Integrator (https://sourceforge.net/projects/kettle-web-integrator/)\n* Saiku chart plus (https://sourceforge.net/projects/saikuchartplus/)",
         "tags": [
             "Desenvolvimento"
         ],
@@ -260,8 +260,8 @@
         "companyLogo": "",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/abner-fernandes.jpg",
-        "shortBio": "Tecnólogo em Análise e Desenvolvimento de Sistemas. Pós graduado em Engenharia de Software...",
-        "bio": "Tecnólogo em Análise e Desenvolvimento de Sistemas. Pós graduado em Engenharia de Software. Desenvolvedor Java voltado para web há dois anos.",
+        "shortBio2": "Tecnólogo em Análise e Desenvolvimento de Sistemas. Pós graduado em Engenharia de Software...",
+        "bio2": "Tecnólogo em Análise e Desenvolvimento de Sistemas. Pós graduado em Engenharia de Software. Desenvolvedor Java voltado para web há dois anos.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -280,12 +280,12 @@
         "id": 211,
         "featured": false,
         "name": "João Bosco Monteiro",
-        "company": "",
+        "company": "improving",
         "companyLogo": "",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/joaobosco-monteiro.jpg",
-        "shortBio": "Já atuo com mensageria a bastante tempo e agora estou utilizando o Apache Kafka...",
-        "bio": "Já atuo com mensageria a bastante tempo e agora estou utilizando o Apache Kafka para resolver problemas que necessitam de alto poder de processamento e que sejam escaláveis.",
+        "shortBio2": "Já atuo com mensageria a bastante tempo e agora estou utilizando o Apache Kafka...",
+        "bio2": "Já atuo com mensageria a bastante tempo e agora estou utilizando o Apache Kafka para resolver problemas que necessitam de alto poder de processamento e que sejam escaláveis.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -308,8 +308,8 @@
         "companyLogo": "/images/logos/digithobrasil.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/thiago-fortes.jpg",
-        "shortBio": "Faço uso dessa tecnologia no meu dia-a-dia a alguns meses. Já apresentei essa sessão no TDC SP 2016 e TDC POA 2016.",
-        "bio": "Faço uso dessa tecnologia no meu dia-a-dia a alguns meses. Já apresentei essa sessão no TDC SP 2016 e TDC POA 2016.",
+        "shortBio2": "Faço uso dessa tecnologia no meu dia-a-dia a alguns meses. Já apresentei essa sessão no TDC SP 2016 e TDC POA 2016.",
+        "bio2": "Faço uso dessa tecnologia no meu dia-a-dia a alguns meses. Já apresentei essa sessão no TDC SP 2016 e TDC POA 2016.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -332,8 +332,8 @@
         "companyLogo": "/images/logos/jera.png",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/nicolas-lima.jpg",
-        "shortBio": "Sou DevOp na Jera, trabalho com desenvolvimento de APIs e WEB Apps, recentemente temos considerado o EmberJS como alternativa ...",
-        "bio": "Sou DevOp na Jera, trabalho com desenvolvimento de APIs e WEB Apps, recentemente temos considerado o EmberJS como alternativa para SPA. Desde então tenho desenvolvidos projetos para avaliar o framework.",
+        "shortBio2": "Sou DevOp na Jera, trabalho com desenvolvimento de APIs e WEB Apps, recentemente temos considerado o EmberJS como alternativa ...",
+        "bio2": "Sou DevOp na Jera, trabalho com desenvolvimento de APIs e WEB Apps, recentemente temos considerado o EmberJS como alternativa para SPA. Desde então tenho desenvolvidos projetos para avaliar o framework.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -361,8 +361,8 @@
         "companyLogo": "/images/logos/tecsinapse.svg",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/anselmo-pfeifer.jpg",
-        "shortBio": "Não sou um expert no assunto, mas em pouco tempo de estudo (3 meses) consegui definir uma arquitetura inicialmente para usarmos em homologação.",
-        "bio": "Não sou um expert no assunto, mas em pouco tempo de estudo (3 meses) consegui definir uma arquitetura inicialmente para usarmos em homologação.",
+        "shortBio2": "Não sou um expert no assunto, mas em pouco tempo de estudo (3 meses) consegui definir uma arquitetura inicialmente para usarmos em homologação.",
+        "bio2": "Não sou um expert no assunto, mas em pouco tempo de estudo (3 meses) consegui definir uma arquitetura inicialmente para usarmos em homologação.",
         "tags": [
             "Desenvolvimento"
         ],
@@ -390,8 +390,8 @@
         "companyLogo": "/images/logos/moip.png",
         "country": "São Paulo, SP",
         "photoUrl": "/images/people/caue-ferreira.jpg",
-        "shortBio": "Desenvolvedor de software a 7 anos, trabalha com desenvolvimento móvel desde o início de sua carreira. Atualmente, trabalha no Moip com desenvolvimento mobile e server side.",
-        "bio": "Desenvolvedor de software a 7 anos, trabalha com desenvolvimento móvel desde o início de sua carreira. Atualmente, trabalha no Moip com desenvolvimento mobile e server side.",
+        "shortBio2": "Desenvolvedor de software a 7 anos, trabalha com desenvolvimento móvel desde o início de sua carreira. Atualmente, trabalha no Moip com desenvolvimento mobile e server side.",
+        "bio2": "Desenvolvedor de software a 7 anos, trabalha com desenvolvimento móvel desde o início de sua carreira. Atualmente, trabalha no Moip com desenvolvimento mobile e server side.",
         "tags": [
             "Android",
             "Desenvolvimento"
@@ -404,6 +404,29 @@
                 "icon": "github",
                 "name": "GitHub",
                 "link": "https://github.com/caueferreira"
+            }
+        ]
+    },
+    "102": {
+        "id": 102,
+        "featured": true,
+        "name": "Luiz Corte Real",
+        "company": "Elo7",
+        "companyLogo": "/images/logos/elo7.png",
+        "country": "São Paulo, SP",
+        "photoUrl": "/images/people/luiz-real.jpg",
+        "shortBio2": "Luiz é mestre em Ciência da Computação pelo IME-USP e atualmente trabalha como Engenheiro de Software no Elo7, fazendo front-end com um toque de back-end. Gosta de conhecer tudo nos mínimos detalhes, de desafios, de compartilhar conhecimento e de filosofar.",
+        "tags": [            
+            "Desenvolvimento"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/srsaude"
             }
         ]
     }
