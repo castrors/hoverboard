@@ -256,7 +256,7 @@
         "id": 210,
         "featured": false,
         "name": "Abner Fernandes",
-        "company": "",
+        "company": "Intersite",
         "companyLogo": "",
         "country": "Campo Grande, MS",
         "photoUrl": "/images/people/abner-fernandes.jpg",
@@ -427,6 +427,30 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/srsaude"
+            }
+        ]
+    },
+    
+    "103": {
+        "id": 103,
+        "featured": true,
+        "name": "Paulo Simões",
+        "company": "Oracle",
+        "companyLogo": "/images/logos/oracle.svg",
+        "country": "São Paulo, SP",
+        "photoUrl": "/images/people/paulo-simoes.jpg",
+        "shortBio2": "",
+        "tags": [            
+            "Desenvolvimento"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/paulosimoes"
             }
         ]
     }

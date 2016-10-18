@@ -13,14 +13,14 @@
      },
      "303": {
          "id": 303,
-         "title": "Keynote - Oracle",
-         "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+         "title": "Keynote Oracle - JavaEE 8",
+         "description": "",
          "speakers": [
-             1
+             103
          ],
          "complexity": "Praticantes",
          "tags": [
-             "Web"
+             "Desenvolvimento"
          ]
      },
      "304": {
