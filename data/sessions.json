@@ -25,8 +25,8 @@
      },
      "304": {
          "id": 304,
-         "title": "Moip - Android - Caue Ferreira",
-         "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+         "title": "Android Clean Architecture",
+         "description": "Vamos conversar sobre clean architecture, suas vantagens, porque você deveria se preocupar em aprender. Veja como não só é possível usar clean architecture no seu dia a dia no trabalho como também é uma ótima prática.",
          "speakers": [
              101
          ],
