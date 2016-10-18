@@ -7,25 +7,25 @@
         "name": "AZ Informática",
         "url": "http://www.azi.com.br",
         "logoUrl": "../images/logos/azlogo3.png",
-        "width": 170
+        "height": 70
       },
       {
         "name": "Elo7",
         "url": "http://www.elo7.com.br",
         "logoUrl": "../images/logos/elo7.png",
-        "width": 170
+        "height": 60
       },
       {
         "name": "Moip",
         "url": "https://www.moip.com.br",
         "logoUrl": "../images/logos/moip.png",
-        "width": 170
+        "height": 70
       },
       {
         "name": "Oracle",
         "url": "https://www.oracle.com/br/index.html",
         "logoUrl": "../images/logos/oracle.svg",
-        "width": 170
+        "height": 70
       }
     ]
   },
@@ -35,8 +35,8 @@
       {
         "name": "Jera",
         "url": "http://jera.com.br",
-        "logoUrl": "../images/logos/jera.png",
-        "width": 170
+        "logoUrl": "../images/logos/logo-jera-escuro.png",
+        "height": 100
       }
     ]
   },
@@ -47,18 +47,18 @@
         "name": "FACOM - UFMS",
         "url": "http://facom.sites.ufms.br",
         "logoUrl": "../images/logos/facom.png",
-        "width": 170
+        "height": 70
       },
       {
         "name": "Twitter",
         "url": "https://twitter.com",
         "logoUrl": "../images/logos/twitter.png",
-        "width": 170
+        "height": 80
       },
       {
         "name": "Jug MS",
         "logoUrl": "../images/logos/jugms.jpg",
-        "width": 170
+        "height": 70
       }
     ]
   }
