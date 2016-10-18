@@ -3,13 +3,13 @@
          "id": 301,
          "title": "Credenciamento",
          "description": "Este é o momendo de fazer o seu checkin e fazer a sua doação do 1kg de alimento não perecível.",
-         "image": "/images/backgrounds/registration.jpg"
+         "image": "/images/backgrounds/opening-jvn.jpg"
      },
      "302": {
          "id": 302,
          "title": "Abertura Javaneiros 2016",
          "description": "Abertura oficial da nona edição do javaneiros. Agradecimento aos organizadores, patrocinadores e apoiadores.",
-         "image": "/images/backgrounds/opening.jpg"
+         "image": "/images/backgrounds/registration-jvn.jpg"
      },
      "303": {
          "id": 303,
@@ -228,7 +228,7 @@
          "id": 321,
          "title": "Encerramento",
          "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-         "image": "/images/backgrounds/closing.jpg"
+         "image": "/images/backgrounds/closing-jvn.png"
      },
      "322": {
          "id": 322,
