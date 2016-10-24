@@ -37,6 +37,12 @@
         "url": "http://jera.com.br",
         "logoUrl": "../images/logos/jera.png",
         "height": 100
+      },
+      {
+        "name": "Tendência",
+        "url": "http://www2.redetendencia.com.br/",
+        "logoUrl": "../images/logos/tendencia.png",
+        "height": 100
       }
     ]
   },
