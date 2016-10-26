@@ -13,8 +13,8 @@
      },
      "303": {
          "id": 303,
-         "title": "Keynote Oracle - JavaEE 8",
-         "description": "",
+         "title": "Novidades sobre JavaSE 9 e tendências de mercado que podem influenciar o novo JavaEE 8",
+         "description": "Nesta sessão vamos passar por algumas novidades muito importantes do JavaSE 9, tais como o projeto de mobularidade conhecido como Jigsaw. E, discutiremos sobre algumas tendências de mercado tais como Cloud, microserviços e containers e seus desdobramentos que podem vir a influenciar a nova versão do JavaEE.",
          "speakers": [
              103
          ],
