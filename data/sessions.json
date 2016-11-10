@@ -8,7 +8,7 @@
      "302": {
          "id": 302,
          "title": "Abertura Javaneiros 2016",
-         "description": "Abertura oficial da nona edição do javaneiros. Agradecimento aos organizadores, patrocinadores e apoiadores.",
+         "description": "Abertura oficial da nona edição do Javaneiros. Agradecimento aos organizadores, patrocinadores e apoiadores.",
          "image": "/images/backgrounds/registration-jvn.jpg"
      },
      "303": {
@@ -166,7 +166,7 @@
      },
      "316": {
          "id": 316,
-         "title": "Escalando o processamento de dados com Apache Kafka",
+         "title": "Apache Kafka: desvendando seus poderes",
          "description": "Essa sessão apresentará as características do Apache Kafka e como utilizá-lo para construir um pipeline de processamento distribuído e escalável.",
          "speakers": [
              211
