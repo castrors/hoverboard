@@ -227,13 +227,19 @@
      "321": {
          "id": 321,
          "title": "Encerramento",
-         "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+         "description": "Encerramento, agradecimentos e sorteio de vários brindes incríveis.",
          "image": "/images/backgrounds/closing-jvn.png"
      },
      "322": {
          "id": 322,
          "title": "Pós evento e Networking",
-         "description": "Afterparty is a great time to have some fun and meet new people",
+         "description": "Hora de fazer aquele networking...",
          "image": "/images/backgrounds/party.jpg"
+     },
+     "323": {
+         "id": 323,
+         "title": "Coffee-break",
+         "description": "Hora de matar a fome! A organização do javaneiros desafia vocês a comerem toda a comida.",
+         "image": "/images/backgrounds/coffee-break.jpg"
      }
  }
