@@ -21,6 +21,11 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/@augustosandim/"
+            }, 
+            {
+                "icon": "website",
+                "name": "Slides",
+                "link": "https://slides.com/augustosandim/offline-first-progressive-web-apps/"
             }
         ]
     },
@@ -69,6 +74,11 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "http://twitter.com/@glauberlaender"
+            },
+            {
+                "icon": "website",
+                "name": "Slides",
+                "link": "http://www.slideshare.net/glauberlaender/developer-who-designs"
             }
         ]
     },
@@ -93,6 +103,11 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "http://twitter.com/@higornucci"
+            },
+            {
+                "icon": "website",
+                "name": "Slides",
+                "link": "http://www.slideshare.net/glauberlaender/developer-who-designs"
             }
         ]
     },
@@ -133,6 +148,11 @@
                 "icon": "linkedin",
                 "name": "LinkedIn",
                 "link": "https://br.linkedin.com/in/castrodev"
+            }, 
+            {
+                "icon": "website",
+                "name": "Slides",
+                "link": "http://www.slideshare.net/RodrigodeSouzaCastro/usando-gradle-a-seu-favor"
             }
         ]
     },
@@ -157,6 +177,11 @@
                 "icon": "facebook",
                 "name": "Facebook",
                 "link": "https://www.facebook.com/alessandro.snts.ferreira"
+            }, 
+            {
+                "icon": "website",
+                "name": "Slides",
+                "link": "https://dl.dropboxusercontent.com/u/9754847/competitiveProgramming.pdf"
             }
         ]
     },
@@ -186,6 +211,11 @@
                 "icon": "facebook",
                 "name": "Facebook",
                 "link": "https://www.facebook.com/virmerson"
+            },
+            {
+                "icon": "website",
+                "name": "Slides",
+                "link": "http://fabricadeprogramador.com.br/#/javaneiros"
             }
         ]
     },
@@ -321,7 +351,13 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/thiago733"
+            },
+            {
+                "icon": "website",
+                "name": "Slides",
+                "link": "https://firebasestorage.googleapis.com/v0/b/javaneiros-d26af.appspot.com/o/ChatOps.pptx?alt=media&token=fddf1617-b637-45fd-a8bf-c217517b1725"
             }
+            
         ]
     },
     "213": {
@@ -379,7 +415,18 @@
                 "icon": "facebook",
                 "name": "Facebook",
                 "link": "https://www.facebook.com/AnselmoPfeifer"
+            },
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "https://github.com/AnselmoPfeifer/docker-iniciante"
+            },
+            {
+                "icon": "website",
+                "name": "Slides",
+                "link": "https://github.com/AnselmoPfeifer/docker-iniciante/blob/master/docs/Apresentacao.pdf"
             }
+
         ]
     },
     "101": {
