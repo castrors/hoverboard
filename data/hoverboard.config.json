@@ -130,7 +130,7 @@
     ]
   },
   "tickets": {
-    "url": "https://www.doity.com.br/javaneiros2016",
+    "url": "https://www.doity.com.br/javaneiros2016/certificados",
     "elements": [
       {
         "name": "student-ticket",
@@ -138,7 +138,7 @@
         "currency": "",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
-        "soldOut": false
+        "soldOut": true
       }
     ]
   },
