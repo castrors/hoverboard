@@ -179,10 +179,11 @@
   "gallery": {
     "albumUrl": "https://goo.gl/photos/y2Nt1X73HYJkrKgH7",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/2016_1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/2016_4.jpg",
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
       ]
     }
   },
@@ -190,17 +191,17 @@
     "apiKey": "",
     "link": "https://www.facebook.com/javaneiros",
     "pointer": {
-      "latitude": -20.502510,
-      "longitude": -54.613448,
+      "latitude": -20.465435,
+      "longitude": -54.591782,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": -20.502510,
-      "longitude": -54.603448
+      "latitude": -20.465435,
+      "longitude": -54.591782
     },
     "images": [
-      "/images/location/facom1.jpg",
-      "/images/location/facom2.jpg"
+      "/images/location/uniderp1.jpg",
+      "/images/location/uniderp2.jpg"
     ]
   },
   "videosSessionsUrl": "https://www.youtube.com/watch?v=3Hbqxes6s50&list=FLbii03T5U9lNzXd77plvAVA",
