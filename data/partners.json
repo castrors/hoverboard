@@ -1,31 +1,29 @@
 [
-
   {
     "title": "partners-gold",
     "logos": [
       {
-        "name": "AZ Informática",
-        "url": "http://www.azi.com.br",
-        "logoUrl": "../images/logos/azlogo3.png",
-        "height": 70
+        "name": "HighTech",
+        "url": "http://hightechcursos.com.br/",
+        "logoUrl": "../images/logos/hightech.png",
+        "height": 90
+      }
+    ]
+  },
+  {
+    "title": "partners-silver",
+    "logos": [
+      {
+        "name": "N&A Informática",
+        "url": "http://www.neainformatica.com.br/",
+        "logoUrl": "../images/logos/neainformatica.png",
+        "height": 80
       },
       {
-        "name": "Elo7",
-        "url": "http://www.elo7.com.br",
-        "logoUrl": "../images/logos/elo7.png",
-        "height": 60
-      },
-      {
-        "name": "Moip",
-        "url": "https://www.moip.com.br",
-        "logoUrl": "../images/logos/moip.png",
-        "height": 70
-      },
-      {
-        "name": "Oracle",
-        "url": "https://www.oracle.com/br/index.html",
-        "logoUrl": "../images/logos/oracle.svg",
-        "height": 70
+        "name": "Loglab",
+        "url": "http://www.loglab.com.br",
+        "logoUrl": "../images/logos/loglab.png",
+        "height": 80
       }
     ]
   },
@@ -33,16 +31,22 @@
     "title": "partners-bronze",
     "logos": [
       {
+        "name": "Agence",
+        "url": "http://www.agence.com.br/",
+        "logoUrl": "../images/logos/agence.png",
+        "height": 80
+      },
+      {
+        "name": "Intersite",
+        "url": "http://www.intersite.com.br/",
+        "logoUrl": "../images/logos/intersite.png",
+        "height": 80
+      },
+      {
         "name": "Jera",
         "url": "http://jera.com.br",
         "logoUrl": "../images/logos/jera.png",
-        "height": 100
-      },
-      {
-        "name": "Tendência",
-        "url": "http://www2.redetendencia.com.br/",
-        "logoUrl": "../images/logos/tendencia.png",
-        "height": 100
+        "height": 80
       }
     ]
   },
@@ -50,16 +54,10 @@
     "title": "partners-supporters",
     "logos": [
       {
-        "name": "FACOM - UFMS",
-        "url": "http://facom.sites.ufms.br",
-        "logoUrl": "../images/logos/facom.png",
+        "name": "Anhanguera Uniderp",
+        "url": "http://www.uniderp.br",
+        "logoUrl": "../images/logos/uniderp.png",
         "height": 70
-      },
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com",
-        "logoUrl": "../images/logos/twitter.png",
-        "height": 80
       },
       {
         "name": "Jug MS",
