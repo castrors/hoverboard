@@ -130,7 +130,7 @@
     ]
   },
   "tickets": {
-    "url": "#",
+    "url": "https://www.doity.com.br/javaneiros2017",
     "elements": [
       {
         "name": "student-ticket",
@@ -138,7 +138,7 @@
         "currency": "",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
-        "soldOut": true
+        "soldOut": false
       }
     ]
   },

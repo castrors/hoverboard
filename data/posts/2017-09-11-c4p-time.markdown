@@ -1,0 +1,9 @@
+Pessoal, já está disponível o formulário para quem quiser submeter palestras para o Javaneiros 2017. É uma excelente oportunidade dos profissionais mostrarem seu trabalho e aumentar seu networking.
+
+<div class="text-center">
+<a href="https://goo.gl/forms/CGeoexmKr1IVzD2s1" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submeter uma palestra</paper-button>
+</a>
+</div>
+
+Alguma dúvida? Entre em contato com os organizadores pelo email [coordenacao@jugms.com.br](mailto:coordenacao@jugms.com.br)
