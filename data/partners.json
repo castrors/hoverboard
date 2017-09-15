@@ -1,5 +1,16 @@
 [
   {
+    "title": "partners-diamond",
+    "logos": [
+      {
+        "name": "Before",
+        "url": "https://www.before.com.br/",
+        "logoUrl": "../images/logos/before.png",
+        "height": 100
+      }
+    ]
+  },
+  {
     "title": "partners-gold",
     "logos": [
       {
@@ -17,6 +28,12 @@
         "name": "N&A Informática",
         "url": "http://www.neainformatica.com.br/",
         "logoUrl": "../images/logos/neainformatica.png",
+        "height": 80
+      },
+      {
+        "name": "log,lab.",
+        "url": "https://www.loglab.online/",
+        "logoUrl": "../images/logos/loglab.png",
         "height": 80
       }
     ]
