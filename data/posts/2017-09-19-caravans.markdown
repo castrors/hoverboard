@@ -1,0 +1,20 @@
+#J10 #Javaneiros10 tá chegando!
+
+DÉCIMA EDIÇÃO, isso mesmo galera, estamos perto da DÉCIMA EDIÇÃO do maior evento de tecnologia do MS, 
+só temos a agradecer por todo apoio e participação de todos vocês ao longo dessa jornada, pois são vocês que nos motivam!
+Já passaram inúmeros palestrantes ilustres, que "manjam" muito do assunto e agregaram e continuam agregando valor.
+Seja você de uma caranava ou não, não importa de onde você vem, o importante é a sua presença, venha com a gente comemorar! 
+
+Ah, se estiver com fome, vai aqui uma lista com alguns restaurantes próximos ao evento:
+- Restaurante Mais Sabor - Rua Ceará, 35
+- Canto do Cupim - Av. Ricardo Brandão, s/n
+- Shopping Campo Grande - Av. Afonso Pena, 4909 
+ 
+Em caso de dúvidas, entre em contato com os organizadores pelo e-mail [coordenacao@jugms.com.br](mailto:coordenacao@jugms.com.br)
+ou pelo celulares [(67) 99259-0520](tel:067992590520) / [(67) 99952-3508](tel:067999523508).
+
+<div class="text-center">
+<a target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Vai ser épico!</paper-button>
+</a>
+</div>
