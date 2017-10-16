@@ -114,7 +114,6 @@
          "title": " Spring Boot - Integrando Frameworks de forma fácil",
          "description": "Acelere o desenvolvimento Java Web com Spring Boot Framework. Veja como integrar de forma fácil diversos frameworks tais como JPA/hibernate, AssertJ, JSF, Lombok, Restful utilizando o Spring Boot Frameworks.",
          "speakers": [
-             207
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -193,7 +192,6 @@
          "title": "Desenvolvendo Web Apps com EmberJS",
          "description": "EmberJS é um poderoso framework para desenvolvimento de Web Apps. Vamos conhecer um pouco sobre o ele enquanto desenvolvemos um App para o Javaneiros!",
          "speakers": [
-             213
          ],
          "complexity": "Praticantes",
          "tags": [

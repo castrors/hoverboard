@@ -1,6 +1,6 @@
 {
-      "201": {
-        "id": 201,
+    "101": {
+        "id": 101,
         "featured": true,
         "name": "Marcelo Quinta",
         "company": "Universidade Federal de Goiás (UFG)",
@@ -8,42 +8,41 @@
         "country": "Goiânia, GO",
         "photoUrl": "/images/people/marcelo-quinta.jpg",
         "shortBio2": "",
-        "bio2": "",
         "tags": [
+            "Android",
             "Desenvolvimento"
         ],
         "badges": [
-
+          "GDE"
         ],
         "socials": [
-            {    
+            {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://br.linkedin.com/in/marcelo-quinta-6444bb22/"
+                "link": "https://www.linkedin.com/in/marcelo-quinta-6444bb22"
             }
         ]
     },
-    "202": {
-        "id": 202,
+    "102": {
+        "id": 102,
         "featured": true,
         "name": "Paulo Simões",
         "company": "Oracle",
-        "companyLogo": "",
+        "companyLogo": "/images/logos/oracle.svg",
         "country": "Rio de Janeiro, RJ",
         "photoUrl": "/images/people/paulo-simoes.jpg",
         "shortBio2": "",
-        "bio2": "",
-        "tags": [
+        "tags": [            
             "Desenvolvimento"
         ],
         "badges": [
 
         ],
         "socials": [
-            {    
+            {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://br.linkedin.com/in/paulosimoes/"
+                "link": "https://www.linkedin.com/in/paulosimoes"
             }
         ]
     }
