@@ -1,30 +1,49 @@
 {
       "201": {
         "id": 201,
-        "featured": false,
-        "name": "Palestrante",
-        "company": "Javaneiros",
+        "featured": true,
+        "name": "Marcelo Quinta",
+        "company": "Universidade Federal de Goiás (UFG)",
         "companyLogo": "",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/placeholder",
+        "country": "Goiânia, GO",
+        "photoUrl": "/images/people/marcelo-quinta.jpg",
         "shortBio2": "",
         "bio2": "",
         "tags": [
-            "DEV"
+            "Desenvolvimento"
         ],
         "badges": [
 
         ],
         "socials": [
-            {
-                "icon": "",
-                "name": "",
-                "link": ""
-            },
-            {
-                "icon": "",
-                "name": "",
-                "link": ""
+            {    
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://br.linkedin.com/in/marcelo-quinta-6444bb22/"
+            }
+        ]
+    },
+    "202": {
+        "id": 202,
+        "featured": true,
+        "name": "Paulo Simões",
+        "company": "Oracle",
+        "companyLogo": "",
+        "country": "Rio de Janeiro, RJ",
+        "photoUrl": "/images/people/paulo-simoes.jpg",
+        "shortBio2": "",
+        "bio2": "",
+        "tags": [
+            "Desenvolvimento"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {    
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://br.linkedin.com/in/paulosimoes/"
             }
         ]
     }
