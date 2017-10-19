@@ -72,6 +72,7 @@
       },
       {
         "name": "Google",
+        "url": "http://www.google.com.br",
         "logoUrl": "../images/logos/google.svg",
         "height": 70
       },
@@ -82,11 +83,13 @@
       },
       {
         "name": "Oracle",
+        "url": "https://www.oracle.com/br/index.html",
         "logoUrl": "../images/logos/oracle.svg",
         "height": 70
       },
       {
         "name": "RedHat",
+        "url": "https://www.redhat.com/pt-br/global/brazil",
         "logoUrl": "../images/logos/redhat.png",
         "height": 70
       }
