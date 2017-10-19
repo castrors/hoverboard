@@ -71,8 +71,23 @@
         "height": 70
       },
       {
+        "name": "Google",
+        "logoUrl": "../images/logos/google.svg",
+        "height": 70
+      },
+      {
         "name": "Jug MS",
         "logoUrl": "../images/logos/jugms.jpg",
+        "height": 70
+      },
+      {
+        "name": "Oracle",
+        "logoUrl": "../images/logos/oracle.svg",
+        "height": 70
+      },
+      {
+        "name": "RedHat",
+        "logoUrl": "../images/logos/redhat.png",
         "height": 70
       }
     ]
