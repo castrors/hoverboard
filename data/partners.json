@@ -18,6 +18,12 @@
         "url": "http://hightechcursos.com.br/",
         "logoUrl": "../images/logos/hightech.png",
         "height": 90
+      }, 
+      {
+        "name": "Sistemas Ganso",
+        "url": "http://www.microsig.com.br/produtos/ganso/",
+        "logoUrl": "../images/logos/sistemasganso.png",
+        "height": 90
       }
     ]
   },
