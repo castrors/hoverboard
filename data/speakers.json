@@ -4,10 +4,10 @@
         "featured": true,
         "name": "Marcelo Quinta",
         "company": "Universidade Federal de Goiás (UFG)",
-        "companyLogo": "",
+        "companyLogo": "/images/logos/experts-logo.png",
         "country": "Goiânia, GO",
         "photoUrl": "/images/people/marcelo-quinta.jpg",
-        "shortBio2": "",
+        "shortBio2": "GDE Android, Intel Innovator, Professor na UFG, Mentor Google Launchpad Startups",
         "tags": [
             "Android",
             "Desenvolvimento"
@@ -43,6 +43,79 @@
                 "icon": "linkedin",
                 "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/paulosimoes"
+            }
+        ]
+    },
+    "202": {
+        "id": 202,
+        "featured": false,
+        "name": "Rodrigo Castro",
+        "company": "Concrete",
+        "companyLogo": "/images/logos/concrete.svg",
+        "country": "São Paulo, SP",
+        "photoUrl": "/images/people/rodrigo-castro.jpg",
+        "shortBio2": "",
+        "tags": [            
+            "Android",
+            "Desenvolvimento"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/@rodrigocastro_o"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/rodrigodesouzacastro"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/castrors"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://br.linkedin.com/in/castrodev"
+            }
+        ]
+    },
+    "203": {
+        "id": 203,
+        "featured": false,
+        "name": "Marco Maddo",
+        "company": "Rave S.A.",
+        "companyLogo": "",
+        "country": "Campo Grande, MS",
+        "photoUrl": "/images/people/marco-maddo.jpg",
+        "shortBio2": "",
+        "tags": [            
+            "Kotlin",
+            "Desenvolvimento"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/marcomaddo"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/marcomaddo"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://br.linkedin.com/in/marcomaddo"
             }
         ]
     }
