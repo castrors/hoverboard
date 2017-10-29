@@ -1,474 +1,441 @@
 {
-    "101": {
-        "id": 101,
-        "featured": true,
-        "name": "Marcelo Quinta",
-        "company": "Universidade Federal de Goiás (UFG)",
-        "companyLogo": "/images/logos/experts-logo.png",
-        "country": "Goiânia, GO",
-        "photoUrl": "/images/people/marcelo-quinta.jpg",
-        "shortBio2": "GDE Android, Intel Innovator, Professor na UFG, Mentor Google Launchpad Startups",
-        "tags": [
-            "Android",
-            "Desenvolvimento"
-        ],
-        "badges": [
-          "GDE"
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/marcelo-quinta-6444bb22"
-            }
-        ]
-    },
-    "102": {
-        "id": 102,
-        "featured": true,
-        "name": "Paulo Simões",
-        "company": "Oracle",
-        "companyLogo": "/images/logos/oracle.svg",
-        "country": "Rio de Janeiro, RJ",
-        "photoUrl": "/images/people/paulo-simoes.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento"
-        ],
-        "badges": [
+	"101": {
+		"id": 101,
+		"featured": true,
+		"name": "Marcelo Quinta",
+		"company": "Universidade Federal de Goiás (UFG)",
+		"companyLogo": "/images/logos/experts-logo.png",
+		"country": "Goiânia, GO",
+		"photoUrl": "/images/people/marcelo-quinta.jpg",
+		"shortBio2": "GDE Android, Intel Innovator, Professor na UFG, Mentor Google Launchpad Startups",
+		"tags": [
+			"Android",
+			"Desenvolvimento"
+		],
+		"badges": [
+			"GDE"
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/marcelo-quinta-6444bb22"
+		}]
+	},
+	"102": {
+		"id": 102,
+		"featured": true,
+		"name": "Paulo Simões",
+		"company": "Oracle",
+		"companyLogo": "/images/logos/oracle.svg",
+		"country": "Rio de Janeiro, RJ",
+		"photoUrl": "/images/people/paulo-simoes.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/paulosimoes"
-            }
-        ]
-    },
-    "202": {
-        "id": 202,
-        "featured": false,
-        "name": "Rodrigo Castro",
-        "company": "Concrete",
-        "companyLogo": "/images/logos/concrete.svg",
-        "country": "São Paulo, SP",
-        "photoUrl": "/images/people/rodrigo-castro.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Android",
-            "Desenvolvimento"
-        ],
-        "badges": [
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/paulosimoes"
+		}]
+	},
+	"202": {
+		"id": 202,
+		"featured": false,
+		"name": "Rodrigo Castro",
+		"company": "Concrete",
+		"companyLogo": "/images/logos/concrete.svg",
+		"country": "São Paulo, SP",
+		"photoUrl": "/images/people/rodrigo-castro.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Android",
+			"Desenvolvimento"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "http://twitter.com/@rodrigocastro_o"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/rodrigodesouzacastro"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/castrors"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://br.linkedin.com/in/castrodev"
-            }
-        ]
-    },
-    "203": {
-        "id": 203,
-        "featured": false,
-        "name": "Marco Maddo",
-        "company": "Rave S.A.",
-        "companyLogo": "",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/marco-maddo.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "Kotlin"
-        ],
-        "badges": [
+		],
+		"socials": [{
+				"icon": "twitter",
+				"name": "Twitter",
+				"link": "http://twitter.com/@rodrigocastro_o"
+			},
+			{
+				"icon": "facebook",
+				"name": "Facebook",
+				"link": "https://www.facebook.com/rodrigodesouzacastro"
+			},
+			{
+				"icon": "github",
+				"name": "GitHub",
+				"link": "https://github.com/castrors"
+			},
+			{
+				"icon": "linkedin",
+				"name": "LinkedIn",
+				"link": "https://br.linkedin.com/in/castrodev"
+			}
+		]
+	},
+	"203": {
+		"id": 203,
+		"featured": false,
+		"name": "Marco Maddo",
+		"company": "Rave S.A.",
+		"companyLogo": "",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/marco-maddo.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"Kotlin"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "http://twitter.com/marcomaddo"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/marcomaddo"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://br.linkedin.com/in/marcomaddo"
-            }
-        ]
-    },
-    "204": {
-        "id": 204,
-        "featured": false,
-        "name": "Lenine Junior",
-        "company": "",
-        "companyLogo": "",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/lenine-junior.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Marketing Digital"
-        ],
-        "badges": [
+		],
+		"socials": [{
+				"icon": "twitter",
+				"name": "Twitter",
+				"link": "http://twitter.com/marcomaddo"
+			},
+			{
+				"icon": "facebook",
+				"name": "Facebook",
+				"link": "https://www.facebook.com/marcomaddo"
+			},
+			{
+				"icon": "linkedin",
+				"name": "LinkedIn",
+				"link": "https://br.linkedin.com/in/marcomaddo"
+			}
+		]
+	},
+	"204": {
+		"id": 204,
+		"featured": false,
+		"name": "Lenine Junior",
+		"company": "",
+		"companyLogo": "",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/lenine-junior.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Marketing Digital"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/leninejc"
-            }
-        ]
-    },
-    "205": {
-        "id": 205,
-        "featured": false,
-        "name": "Stephany Henrique",
-        "company": "",
-        "companyLogo": "",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/stephany-henrique.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "ASP.NET"
-        ],
-        "badges": [
+		],
+		"socials": [{
+			"icon": "facebook",
+			"name": "Facebook",
+			"link": "https://www.facebook.com/leninejc"
+		}]
+	},
+	"205": {
+		"id": 205,
+		"featured": false,
+		"name": "Stephany Henrique",
+		"company": "",
+		"companyLogo": "",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/stephany-henrique.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"ASP.NET"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/rickab10"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/stephanyhenrique.almeidabatista"
-            }
-        ]
-    },
-"206": {
-        "id": 206,
-        "featured": false,
-        "name": "Edilmar Alves",
-        "company": "Intersite",
-        "companyLogo": "/images/logos/intersite.png",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/edilmar-alves.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "Microservices"
-        ],
-        "badges": [
+		],
+		"socials": [{
+				"icon": "twitter",
+				"name": "Twitter",
+				"link": "https://twitter.com/rickab10"
+			},
+			{
+				"icon": "facebook",
+				"name": "Facebook",
+				"link": "https://www.facebook.com/stephanyhenrique.almeidabatista"
+			}
+		]
+	},
+	"206": {
+		"id": 206,
+		"featured": false,
+		"name": "Edilmar Alves",
+		"company": "Intersite",
+		"companyLogo": "/images/logos/intersite.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/edilmar-alves.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"Microservices"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/edilista"
-            }
-        ]
-    },
+		],
+		"socials": [{
+			"icon": "twitter",
+			"name": "Twitter",
+			"link": "https://twitter.com/edilista"
+		}]
+	},
 
-    "207": {
-        "id": 207,
-        "featured": false,
-        "name": "Igor Uehara",
-        "company": "",
-        "companyLogo": "",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/igor-uehara.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "Chatbots"
-        ],
-        "badges": [
+	"207": {
+		"id": 207,
+		"featured": false,
+		"name": "Igor Uehara",
+		"company": "",
+		"companyLogo": "",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/igor-uehara.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"Chatbots"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-        ]
-    },
-    "208": {
-        "id": 208,
-        "featured": false,
-        "name": "Macgyver Martins",
-        "company": "Jera",
-        "companyLogo": "/images/logos/jera.png",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/macgyver-martins.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Firebase",
-            "Desenvolvimento"
-        ],
-        "badges": [
+		],
+		"socials": []
+	},
+	"208": {
+		"id": 208,
+		"featured": false,
+		"name": "Macgyver Martins",
+		"company": "Jera",
+		"companyLogo": "/images/logos/jera.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/macgyver-martins.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Firebase",
+			"Desenvolvimento"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/MacgyverMartins"
-            },
-            {
-              "icon" : "linkedin",
-              "name" : "Linkdin",
-              "link" : "https://www.linkedin.com/in/macgyver-martins"
-            }
-        ]
-    },
-"209": {
-        "id": 209,
-        "featured": false,
-        "name": "Anselmo Pfeifer",
-        "company": "Daitan Group",
-        "companyLogo": "",
-        "country": "Campinas, SP",
-        "photoUrl": "/images/people/anselmo-pfeifer.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "Docker"
-        ],
-        "badges": [
+		],
+		"socials": [{
+				"icon": "facebook",
+				"name": "Facebook",
+				"link": "https://www.facebook.com/MacgyverMartins"
+			},
+			{
+				"icon": "linkedin",
+				"name": "Linkdin",
+				"link": "https://www.linkedin.com/in/macgyver-martins"
+			}
+		]
+	},
+	"209": {
+		"id": 209,
+		"featured": false,
+		"name": "Anselmo Pfeifer",
+		"company": "Daitan Group",
+		"companyLogo": "",
+		"country": "Campinas, SP",
+		"photoUrl": "/images/people/anselmo-pfeifer.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"Docker"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://br.linkedin.com/in/anselmopfeifer"
-            }
-        ]
-    },
-"210": {
-        "id": 210,
-        "featured": false,
-        "name": "Stephany Henrique",
-        "company": "",
-        "companyLogo": "",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/stephany-henrique.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "ASP.NET"
-        ],
-        "badges": [
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://br.linkedin.com/in/anselmopfeifer"
+		}]
+	},
+	"210": {
+		"id": 210,
+		"featured": false,
+		"name": "Diogo Bernadelli",
+		"company": "Jera",
+		"companyLogo": "/images/logos/jera.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/diogo-bernadeli.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"PWA"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/rickab10"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/stephanyhenrique.almeidabatista"
-            }
-        ]
-    },
-    "211": {
-        "id": 211,
-        "featured": false,
-        "name": "Robson Soares",
-        "company": "UFMS - CPPP",
-        "companyLogo": "",
-        "country": "Ponta Porã, MS",
-        "photoUrl": "/images/people/robson-soares.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Android",
-            "Desenvolvimento"
-        ],
-        "badges": [
+		],
+		"socials": [{
+			"icon": "facebook",
+			"name": "Facebook",
+			"link": "https://www.facebook.com/diogo.bernardelli"
+		}]
+	},
+	"211": {
+		"id": 211,
+		"featured": false,
+		"name": "Robson Soares",
+		"company": "UFMS - CPPP",
+		"companyLogo": "",
+		"country": "Ponta Porã, MS",
+		"photoUrl": "/images/people/robson-soares.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Android",
+			"Desenvolvimento"
+		],
+		"badges": [
 
-        ],
-        "socials": [
+		],
+		"socials": [
 
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/robson.soares.940436"
-            }
-        ]
-    },
-    "212": {
-        "id": 212,
-        "featured": false,
-        "name": "Vitor Mesquita",
-        "company": "Jera",
-        "companyLogo": "/images/logos/jera.png",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/vitor-mesquita.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "iOS"
-        ],
-        "badges": [
+			{
+				"icon": "facebook",
+				"name": "Facebook",
+				"link": "https://www.facebook.com/robson.soares.940436"
+			}
+		]
+	},
+	"212": {
+		"id": 212,
+		"featured": false,
+		"name": "Vitor Mesquita",
+		"company": "Jera",
+		"companyLogo": "/images/logos/jera.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/vitor-mesquita.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"iOS"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/vitor.mesquita.35"
-            }
-        ]
-    },
-    "213": {
-        "id": 213,
-        "featured": false,
-        "name": "Junio Moquiuti",
-        "company": "Jera",
-        "companyLogo": "/images/logos/jera.png",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/junio-moquiuti.jpg",
-        "shortBio2": "",
-        "tags": [
-          "Desenvolvimento",
-          "iOS"
-        ],
-        "badges": [
+		],
+		"socials": [{
+			"icon": "facebook",
+			"name": "Facebook",
+			"link": "https://www.facebook.com/vitor.mesquita.35"
+		}]
+	},
+	"213": {
+		"id": 213,
+		"featured": false,
+		"name": "Junio Moquiuti",
+		"company": "Jera",
+		"companyLogo": "/images/logos/jera.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/junio-moquiuti.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"iOS"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/junio.moquiuti"
-            }
-        ]
-    },
-    "214": {
-        "id": 214,
-        "featured": false,
-        "name": "Robinson Castilho",
-        "company": "Tecsinapse",
-        "companyLogo": "/images/logos/tecsinapse.svg",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/robinson-castilho.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "Gestão de Produtos"
-        ],
-        "badges": [
+		],
+		"socials": [{
+			"icon": "facebook",
+			"name": "Facebook",
+			"link": "https://www.facebook.com/junio.moquiuti"
+		}]
+	},
+	"214": {
+		"id": 214,
+		"featured": false,
+		"name": "Robinson Castilho",
+		"company": "Tecsinapse",
+		"companyLogo": "/images/logos/tecsinapse.svg",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/robinson-castilho.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"Gestão de Produtos"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/mrcastilho"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.linkedin.com/in/castilho/"
-            }
-        ]
-    },
-    "215": {
-        "id": 215,
-        "featured": false,
-        "name": "Diogo Soares",
-        "company": "Jera",
-        "companyLogo": "/images/logos/jera.png",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/diogo-soares.jpg",
-        "shortBio2": "",
-        "tags": [
-          "Desenvolvimento",
-            "Blockchain"
-        ],
-        "badges": [
+		],
+		"socials": [{
+				"icon": "twitter",
+				"name": "Twitter",
+				"link": "https://twitter.com/mrcastilho"
+			},
+			{
+				"icon": "facebook",
+				"name": "Facebook",
+				"link": "https://www.linkedin.com/in/castilho/"
+			}
+		]
+	},
+	"215": {
+		"id": 215,
+		"featured": false,
+		"name": "Diogo Soares",
+		"company": "Jera",
+		"companyLogo": "/images/logos/jera.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/diogo-soares.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"Blockchain"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://facebook.com/diogo.soares.9081"
-            }
-        ]
-    },
-    "216": {
-        "id": 216,
-        "featured": false,
-        "name": "Dimitrius Fernandes",
-        "company": "Jera",
-        "companyLogo": "/images/logos/jera.png",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/dimitrius-fernandes.jpg",
-        "shortBio2": "",
-        "tags": [
-            "Desenvolvimento",
-            "RubyOnRails"
-        ],
-        "badges": [
+		],
+		"socials": [{
+			"icon": "facebook",
+			"name": "Facebook",
+			"link": "https://facebook.com/diogo.soares.9081"
+		}]
+	},
+	"216": {
+		"id": 216,
+		"featured": false,
+		"name": "Dimitrius Fernandes",
+		"company": "Jera",
+		"companyLogo": "/images/logos/jera.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/dimitrius-fernandes.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"RubyOnRails"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/dimi.fernandes"
-            }
-        ]
-    },
-    "217": {
-        "id": 217,
-        "featured": false,
-        "name": "Renato Augusto",
-        "company": "Jera",
-        "companyLogo": "/images/logos/jera.png",
-        "country": "Campo Grande, MS",
-        "photoUrl": "/images/people/renato-augusto.jpg",
-        "shortBio2": "",
-        "tags": [
-          "Desenvolvimento",
-            "RubyOnRails"
-        ],
-        "badges": [
+		],
+		"socials": [{
+			"icon": "facebook",
+			"name": "Facebook",
+			"link": "https://www.facebook.com/dimi.fernandes"
+		}]
+	},
+	"217": {
+		"id": 217,
+		"featured": false,
+		"name": "Renato Augusto",
+		"company": "Jera",
+		"companyLogo": "/images/logos/jera.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/renato-augusto.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"RubyOnRails"
+		],
+		"badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://facebook.com/renato.augusto.79827"
-            }
-        ]
-    }
+		],
+		"socials": [{
+			"icon": "facebook",
+			"name": "Facebook",
+			"link": "https://facebook.com/renato.augusto.79827"
+		}]
+	}
 }
