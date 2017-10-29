@@ -25,47 +25,46 @@
      },
      "304": {
          "id": 304,
-         "title": "Android Clean Architecture",
-         "description": "Vamos conversar sobre clean architecture, suas vantagens, porque você deveria se preocupar em aprender. Veja como não só é possível usar clean architecture no seu dia a dia no trabalho como também é uma ótima prática.",
+         "title": "Oportunidades para pessoas desenvolvedoras de 2017",
+         "description": "",
          "speakers": [
              101
          ],
          "complexity": "Praticantes",
          "tags": [
-             "Android"
+             "Desenvolvimento"
          ]
      },
      "305": {
          "id": 305,
-         "title": "Offline-first Progressive Web Apps",
-         "description": "Abordar sobre offline-first em web apps desenvolvidas com Javascript.",
+         "title": "Talk Oracle",
+         "description": "",
          "speakers": [
-             201
+             102
          ],
-         "complexity": "Profissionais",
+         "complexity": "Praticantes",
          "tags": [
              "Desenvolvimento"
          ]
      },
      "306": {
          "id": 306,
-         "title": "Como deixar seu Back-end enxuto",
-         "description": "O desenvolvimento do back-end de aplicações grandes pode ser muito caótico, ainda mais quando não se utiliza uma arquitetura escalável. O velho e conhecido MVC já é famoso por ser uma arquitetura simples de entender e que ajuda a manter o código mais organizado. Mas e quando o projeto começa a ficar muito grande o MVC começa a não ser mais suficiente para organizar tudo isso, vamos ver algumas técnicas (com Ruby on Rails) e práticas para evitar esse problema e deixar seu projeto mais escalável e organizado.",
+         "title": "O que devo procurar em um Code Review?",
+         "description": "Irei falar um pouco da minha atual experiência na Concrete, no time de operações do aplicativo Itaú Android (Pessoa física). Como mensurar a efetividade dos testes, o uso code styles, implementação de padrões e anti-paterns de um Merge Request(MR), e vários outros fatores que podem indicar o aceite ou não do MR.",
          "speakers": [
              202
          ],
-         "complexity": "Profissionais",
+         "complexity": "Praticantes",
          "tags": [
              "Desenvolvimento"
          ]
      },
      "307": {
          "id": 307,
-         "title": "Dev who Designs",
-         "description": "Existe um mito de que Design é tela bonita. Design é um processo complexo de imersão no problema a ser resolvido e um design bem feito soluciona algo. Desta forma Design não é necessariamente papel de um designer, mas Desenvolvedores podem ajudar a desenhar uma solução matadora de problemas. Veja na visão de um Designer e de um Desenvolvedor como isso pode ser feito em conjunto no dia-a-dia do nosso trabalho.",
+         "title": "Kotlin for Web, primeiros passos com Servlets",
+         "description": "Kotlin é a nova linguagem que promete competir com o mercado Java, nesta palestra serão apresentados as características principal do Kotlin e uma demo de uma aplicação web rodando uma Servlet.",
          "speakers": [
-             203,
-             204
+             203
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -74,10 +73,10 @@
      },
      "308": {
          "id": 308,
-         "title": "Usando Gradle a seu favor",
-         "description": "Entenda como funciona o Gradle em seu projeto Android e veja o que é possível de ser feito para tornar o seu dia a dia mais produtivo.",
+         "title": "Interação do marketing digital com IT",
+         "description": "Dificilmente os profissionais de desesnvolvimento e análise de sistemas incluem as experiencias digitais com os sistemas desenvolvidos. Um bom sistema não é nada sem ter uma boa interação com seu publico alvo. A palestra consiste em uma apresntação sobre o marketing digital e o que pode ser pensado para o futuro do desenvolvimento de softwares voltados para o MKT D.",
          "speakers": [
-             205
+             204
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -87,139 +86,157 @@
      },
      "309": {
          "id": 309,
-         "title": "Implementando chat real-time no Elo7",
-         "description": "Descubra como utilizar JavaScript isomórfico em soluções de real-time.",
+         "title": "Um mundo novo para quem não conhece ASP.NET Core",
+         "description": "Recentemente a Microsoft lançou o ASP.NET Core, uma plataforma cross-platform e com código aberto. Nesta palestra vamos ver as principais mudanças, conceitos, performance e um app funcionando no Linux e nativamente com .Net Core e SQL Server",
          "speakers": [
-             102
+             205
          ],
-         "complexity": "Praticantes",
+         "complexity": "Iniciantes",
          "tags": [
-             "Desenvolvimento"
+            "Desenvolvimento",
+            "ASP.NET"
          ]
      },
      "310": {
          "id": 310,
-         "title": "Competitive Programming: The Art of Programming Contest",
-         "description": "Uma introdução sobre a programação competitiva, uma ferramenta de contratação de grandes empresas como IBM, Google e Facebook, através de competições como Google Code Jam e ACM ICPC.",
+         "title": "Criando infraestrutura de microserviços com Payara Micro Edition",
+         "description": "Mostrar conceitos básicos sobre microserviços e como pode-se usar um servidor JEE7 (Payara) para montar uma infraestrutura de desenvolvimento",
          "speakers": [
              206
          ],
          "complexity": "Praticantes",
          "tags": [
-             "Desenvolvimento"
+            "Desenvolvimento",
+            "Microservices"
          ]
      },
-     "311": {
+    "311": {
          "id": 311,
-         "title": " Spring Boot - Integrando Frameworks de forma fácil",
-         "description": "Acelere o desenvolvimento Java Web com Spring Boot Framework. Veja como integrar de forma fácil diversos frameworks tais como JPA/hibernate, AssertJ, JSF, Lombok, Restful utilizando o Spring Boot Frameworks.",
+         "title": "IBM Watson Conversation - Inteligência artificial para chatbots",
+         "description": "Abordar as ferramentas para construção  de  chatbots no facebook messenger utilizando IBM Watson Conversation, Node-Red, ChatFuel entre outras plataformas.",
          "speakers": [
+             207
          ],
-         "complexity": "Praticantes",
+         "complexity": "Iniciantes",
          "tags": [
-             "Desenvolvimento"
+            "Desenvolvimento",
+            "Chatbots"
          ]
      },
-     "312": {
+    "312": {
          "id": 312,
-         "title": "Almoço",
-         "description": "Comidaaaaa!",
-         "image": "/images/backgrounds/lunch.jpg"
-     },
-     "313": {
-         "id": 313,
-         "title": "Scalando soluções com Akka",
-         "description": "O modelo de atores tem ganhado muita atenção no desenvolvimento de sistemas distribuídos como uma alternativa ao uso de threads. Akka traz esse modelo para Java/Scala fornecendo um framework completo para o desenvolvimento de sistemas distribuídos resilientes, escaláveis e responsivos. Nesta palestra vamos mostrar o uso do Akka, suas APIs e projetos top-level.",
+         "title": "Cuspindo Back-end com Firebase",
+         "description": "Como usar todo o poder do Firebase para criar aplicações Serverless e Realtime no seu horario de almoço",
          "speakers": [
              208
          ],
-         "complexity": "Profissionais",
+         "complexity": "Praticantes",
          "tags": [
-             "Desenvolvimento"
+            "Firebase",
+            "Desenvolvimento"
          ]
      },
-     "314": {
-         "id": 314,
-         "title": "Inteligência na tomada de decisão e agronegócio: um estudo de caso no setor da pecuária",
-         "description": "Nesta palestra serão apresentados os principais conceitos de Business Intelligence ou inteligência nos negócios através de um estudo de caso no setor da agropecuária, por meio desse estudo de caso serão abordados conceitos como Data Warehouse e Data Mart, além da apresentação de todo um ecossistema de ferramentas open source escritas em JAVA que podem ser utilizadas no processo de análise e tomada de decisão de empresas privadas e orgãos públicos.",
+    "313": {
+         "id": 313,
+         "title": "Gerenciamento de container docker com kubernetes",
+         "description": "Nesta palestra vamos aprender como gerenciar container docker local ou na nuvem usando kubernetes + minikube + gcloud / aws / azure. Sobre a arquitetura do kubernetes iremos falar de: Namespaces, Nodes, Deployments, Services, PersistVolume, ConfigMap, Replication controller. Como demonstração iremos montar um cluster de tomcat 8 e um Serviço de Database usando MySQL com o recurso de PersistVolume e ainda vamos usar o Nginx com o recurso de ConfigMap.",
          "speakers": [
              209
          ],
          "complexity": "Iniciantes",
          "tags": [
-             "Desenvolvimento",
-             "Gestão, Negócios e Agilidade"
+            "Desenvolvimento",
+            "Docker"
          ]
      },
-     "315": {
-         "id": 315,
-         "title": "Montando uma arquitetura web com JavaEE 7",
-         "description": "Configuração e utilização de uma arquitetura básica para o desenvolvimento de um middleware Java voltado para web em uma perspectiva para iniciantes.",
+    "314": {
+         "id": 314,
+         "title": "PWA, Service Worker e Offline first - WTF?",
+         "description": "Nesta palestra, pretendo abordar de forma superficial (e muito provavelmente com pouco código) o que é PWA (Progressive Web App), como é o funcionamento de um web service e a importância do PWA atualmente, comparando-o com um app nativo em vários aspectos. Para acompanhar a palestra, a pessoa precisa ter um conhecimento básico sobre Javascript e sobre web apps (que será também abordado e explicado na palestra). Serão exibidos exemplos de PWA, o que é possível de ser realizado e o que não é, testes de performances e uma ou duas prints (sem live code) do código de um PWA básico.",
          "speakers": [
              210
          ],
-         "complexity": "Iniciantes",
+         "complexity": "Praticantes",
          "tags": [
-             "Desenvolvimento"
+            "Desenvolvimento",
+            "PWA"
          ]
      },
-     "316": {
-         "id": 316,
-         "title": "Apache Kafka: desvendando seus poderes",
-         "description": "Essa sessão apresentará as características do Apache Kafka e como utilizá-lo para construir um pipeline de processamento distribuído e escalável.",
+    "315": {
+         "id": 315,
+         "title": "Utilizando bibliotecas de acesso a webservices com Android",
+         "description": "A palestra demonstrará como utilizar bibliotecas em Android que permitam o acesso a webservices para enviar e receber dados.",
          "speakers": [
              211
          ],
-         "complexity": "Iniciantes",
+         "complexity": "Praticantes",
          "tags": [
-             "Desenvolvimento"
+            "Android",
+            "Desenvolvimento"
          ]
      },
-     "317": {
-         "id": 317,
-         "title": "Chatops na prática: Aumentando o desempenho de seu time",
-         "description": "Muitos times gastam muito tempo com tarefas repetitivas e manuais sendo que poderiam automatizar várias delas para ganhar tempo e entregar mais valor ao cliente. Nessa sessão vamos conversar sobre o tema CHATOPS, e como ele pode ajudar os times no seu dia-a-dia.",
+    "316": {
+         "id": 316,
+         "title": "Não seja Desenvolvedor de software! Seja desenvolvedor de idéias",
+         "description": "Essa palestra tem o intuito de abrir a cabeça para mostrar alguns pontos que são importantes para desenvolver uma ideia, e não somente um software sem utilidade. Assim gerando mais produtividade pessoal e um MVP enxuto sem perder a qualidade do seu software. E algumas dicas para começar a pensar com desenvolvedor de ideias e não somente um desenvolvedor de software.",
          "speakers": [
              212
          ],
          "complexity": "Iniciantes",
          "tags": [
-             "Desenvolvimento"
+            "Desenvolvimento"
          ]
      },
-     "318": {
-         "id": 318,
-         "title": "Desenvolvendo Web Apps com EmberJS",
-         "description": "EmberJS é um poderoso framework para desenvolvimento de Web Apps. Vamos conhecer um pouco sobre o ele enquanto desenvolvemos um App para o Javaneiros!",
+    "317": {
+         "id": 317,
+         "title": "Devs iOS onde vivem? O que comem? Como se reproduzem? Hoje no Javaneiros",
+         "description": "Falar um pouco sobre essa área que nunca ganhou muita visibilidade em CG, como as pessoas podem ingressar nela, o que é preciso, como é o mercado e etc...",
          "speakers": [
+             213
          ],
-         "complexity": "Praticantes",
+         "complexity": "Iniciantes",
          "tags": [
-             "Desenvolvimento"
+            "Desenvolvimento",
+            "iOS"
+         ]
+     },
+        "318": {
+         "id": 318,
+         "title": "O papel do Gestor de Produtos no Desenv. de Software",
+         "description": "Neste mundo de Startups e MVPs, a cada dia nascem inúmeras empresas tentando emplacar um novo produto. Porém, muitas fracassam. A falta de Gestores de Produto é uma das causas deste fracasso. Neste bate-papo apresentarei os conceitos básicos de Gestão de Produtos de Software e os motivos deste papel ser tão importante para aumentar as chances do seu produto dar certo.",
+         "speakers": [
+             214
+         ],
+         "complexity": "Profissionais",
+         "tags": [
+            "Desenvolvimento",
+            "Gestão de Produtos"
          ]
      },
      "319": {
          "id": 319,
-         "title": "Iniciando com Docker",
-         "description": "Nesta palestra vamos ver como o docker pode nos ajudar a levantar um ambiente para testes e homologações de sistemas, de forma rápida e muito prática. Vamos aprender a montar um Dockerfile com base numa imagem oficial, realizar a build de um container e criar as nossas próprias images. E enviar para o docker hub. Como exemplo prático vamos montar um conjunto de 6 containers sendo um cluster de 3 servidor de aplicação (com replicação de sessão entre eles), um serviço de banco de dados (MySQL), um balanceador de carga (NGinx) e um acelerador de conteúdo HTTP (varnish-cache).",
+         "title": "Blockchain o que codar nesse bicho.",
+         "description": "Blockchain todo mundo está interessado, mas nele não tem só cripto moedas temos serviços que podem ser explorados e que talvez possa ser o próximo paypal. O intuito da palestra é explicar como podemos utilizar o blockchain para desenvolver soluções!",
          "speakers": [
-             214
+             215
          ],
-         "complexity": "Iniciantes",
+         "complexity": "Praticantes",
          "tags": [
-             "Desenvolvimento"
+            "Desenvolvimento",
+            "Blockchain"
          ]
      },
      "320": {
          "id": 320,
-         "title": "Mesa Redonda - Carreira",
-         "description": "Vamos receber diversos profissionais com trajetórias de sucesso que irão dar dicas e discutir o que é necessário para ser tornar um excelente profissional de TI.",
+         "title": "MVP - o núcleo do seu produto",
+         "description": "O que é MVP e como ele pode ser facilitado utilizando o framework Ruby on Rails para se gerar um protótipo rápido.",
          "speakers": [
-             1
+             216, 217
          ],
          "complexity": "Praticantes",
          "tags": [
-             "Carreira"
+            "Desenvolvimento",
+                "RubyOnRails"
          ]
      },
      "321": {
@@ -240,4 +257,5 @@
          "description": "Hora de matar a fome! A organização do javaneiros desafia vocês a comerem toda a comida.",
          "image": "/images/backgrounds/coffee-break.jpg"
      }
+
  }
