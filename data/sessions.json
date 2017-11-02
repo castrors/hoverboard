@@ -267,7 +267,7 @@
          "title": "Keynote de Encerramento",
          "description": "Palestra de encerramento com o Java man.",
          "speakers": [
-             221
+             104
          ],
          "complexity": "Praticantes",
          "tags": [
@@ -279,7 +279,7 @@
          "title": "Microsserviços com JBoss Swarm e Openshift",
          "description": "Microsserviços com JBoss Swarm e Openshift com Elvis Rocha",
          "speakers": [
-             220
+             103
          ],
          "complexity": "Praticantes",
          "tags": [
