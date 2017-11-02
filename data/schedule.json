@@ -9,100 +9,109 @@
         "title": "Sala 2"
     }],
     "timeslots": [{
-        "startTime": "08:30",
-        "endTime": "09:00",
+        "startTime": "08:15",
+        "endTime": "08:45",
         "sessions": [
             [301]
         ]
     }, {
-        "startTime": "09:00",
-        "endTime": "09:15",
+        "startTime": "08:45",
+        "endTime": "09:00",
         "sessions": [
             [302]
         ]
     }, {
-        "startTime": "09:15",
+        "startTime": "09:00",
         "endTime": "10:00",
         "sessions": [
-            [303]
+            [305]
         ]
     }, {
         "startTime": "10:00",
-        "endTime": "10:30",
-        "sessions": [
-            [304],
-            [305],
-            [306]
-        ]
-    }, {
-        "startTime": "10:30",
         "endTime": "11:00",
         "sessions": [
-            [304],
-            [307],
-            [308]
+            [326],
+            [319],
+            [309]
         ]
     }, {
         "startTime": "11:00",
+        "endTime": "11:30",
+        "sessions": [
+            [304],
+            [312],
+            [308]
+        ]
+    }, {
+        "startTime": "11:30",
         "endTime": "12:00",
         "sessions": [
-            [309],
-            [310],
-            [313]
+            [304],
+            [307],
+            [316]
         ]
     }, {
         "startTime": "12:00",
-        "endTime": "13:30",
+        "endTime": "14:00",
         "sessions": [
-            [312]
+            [321]
         ]
     }, {
         "startTime": "14:00",
+        "endTime": "14:30",
+        "sessions": [
+            [313],
+            [315],
+            [320]
+        ]
+    }, {
+        "startTime": "14:30",
         "endTime": "15:00",
         "sessions": [
-            [316],
-            [314],
-            [315]
+            [313],
+            [318],
+            [306]
         ]
     }, {
         "startTime": "15:00",
         "endTime": "15:30",
         "sessions": [
-            [311],
-            [317],
-            [318]
+            [310],
+            [314],
+            [311]
         ]
     }, {
         "startTime": "15:30",
         "endTime": "16:00",
         "sessions": [
-            [311],
-            [319],
-            [318]
+            [310],
+            [317],
+            [311]
+
         ]
     }, {
         "startTime": "16:00",
-        "endTime": "17:00",
+        "endTime": "16:30",
         "sessions": [
-            [320]
-        ]
+            [324]
+    ]
     }, {
-        "startTime": "17:00",
+        "startTime": "16:30",
         "endTime": "17:30",
         "sessions": [
-            [323]
+            [325]
     ]
     }, {
         "startTime": "17:30",
         "endTime": "18:00",
         "sessions": [
-            [321]
+            [322]
         ]
     }, {
         "startTime": "18:00",
         "endTime": "21:00",
         "sessions": [
-            [322]
+            [323]
         ]
     }]
 }]

@@ -163,29 +163,6 @@
 			}
 		]
 	},
-	"206": {
-		"id": 206,
-		"featured": false,
-		"name": "Edilmar Alves",
-		"company": "Intersite",
-		"companyLogo": "/images/logos/intersite.png",
-		"country": "Campo Grande, MS",
-		"photoUrl": "/images/people/edilmar-alves.jpg",
-		"shortBio2": "",
-		"tags": [
-			"Desenvolvimento",
-			"Microservices"
-		],
-		"badges": [
-
-		],
-		"socials": [{
-			"icon": "twitter",
-			"name": "Twitter",
-			"link": "https://twitter.com/edilista"
-		}]
-	},
-
 	"207": {
 		"id": 207,
 		"featured": false,
@@ -437,6 +414,92 @@
 			"icon": "facebook",
 			"name": "Facebook",
 			"link": "https://facebook.com/renato.augusto.79827"
+		}]
+	}, 
+	"218": {
+		"id": 218,
+		"featured": false,
+		"name": "Patrick Gonçalves",
+		"company": "Before TI",
+		"companyLogo": "/images/logos/before.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/patrick-goncalves.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"AWS"
+		],
+		"badges": [
+
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/patrick-augusto-goncalves-26342311/"
+		}]
+	},
+	"219": {
+		"id": 219,
+		"featured": false,
+		"name": "Thiago Galdi",
+		"company": "Before TI",
+		"companyLogo": "/images/logos/before.png",
+		"country": "Campo Grande, MS",
+		"photoUrl": "/images/people/thiago-galdi.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento",
+			"AWS"
+		],
+		"badges": [
+
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/thiagofrancogaldi/"
+		}]
+	},
+	"103": {
+		"id": 103,
+		"featured": true,
+		"name": "Elvis Rocha",
+		"company": "Red Hat",
+		"companyLogo": "/images/logos/redhat.png",
+		"country": "Brasília, DF",
+		"photoUrl": "/images/people/elvis-rocha.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento"
+		],
+		"badges": [
+
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/elvishrocha/"
+		}]
+	}, 
+	"104": {
+		"id": 104,
+		"featured": true,
+		"name": "Bruno Souza",
+		"company": "Oracle",
+		"companyLogo": "/images/logos/oracle.svg",
+		"country": "São Paulo, SP",
+		"photoUrl": "/images/people/bruno-souza.jpg",
+		"shortBio2": "",
+		"tags": [
+			"Desenvolvimento"
+		],
+		"badges": [
+
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/brjavaman/"
 		}]
 	}
 }
