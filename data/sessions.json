@@ -98,7 +98,7 @@
      },
      "310": {
          "id": 310,
-         "title": "Além do EC2: Implementando Arquireturas Escaláveis na Amazon AWS",
+         "title": "Além do EC2: Implementando Arquiteturas Escaláveis na Amazon AWS",
          "description": "Tiago vai falar de Lambda, Api Gateway e Elastic Search. Patrick sobre ELB, Cloud Formation, Auto Scaling, Cloud Watch e como a gente faz pra simular a infra aqui no Docker pro desenvolvedor local.",
          "speakers": [
              218,219
