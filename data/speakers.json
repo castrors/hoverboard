@@ -139,8 +139,8 @@
 		"id": 205,
 		"featured": false,
 		"name": "Stephany Henrique",
-		"company": "Digix",
-		"companyLogo": "/images/logos/digix.png",
+		"company": "DB1",
+		"companyLogo": "/images/logos/db1.png",
 		"country": "Campo Grande, MS",
 		"photoUrl": "/images/people/stephany-henrique.jpg",
 		"shortBio2": "",
@@ -415,7 +415,7 @@
 			"name": "Facebook",
 			"link": "https://facebook.com/renato.augusto.79827"
 		}]
-	}, 
+	},
 	"218": {
 		"id": 218,
 		"featured": false,
@@ -480,7 +480,7 @@
 			"name": "LinkedIn",
 			"link": "https://www.linkedin.com/in/elvishrocha/"
 		}]
-	}, 
+	},
 	"104": {
 		"id": 104,
 		"featured": true,
