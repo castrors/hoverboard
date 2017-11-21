@@ -50,7 +50,7 @@
      "306": {
          "id": 306,
          "title": "O que devo procurar em um Code Review?",
-         "description": "Irei falar um pouco da minha atual experiência na Concrete, no time de operações do aplicativo Itaú Android (Pessoa física). Como mensurar a efetividade dos testes, o uso code styles, implementação de padrões e anti-paterns de um Merge Request(MR), e vários outros fatores que podem indicar o aceite ou não do MR.",
+         "description": "Irei falar um pouco da minha atual experiência na Concrete, no time de operações. Como mensurar a efetividade dos testes, o uso code styles, implementação de padrões e anti-paterns de um Merge Request(MR), e vários outros fatores que podem indicar o aceite ou não do MR.",
          "speakers": [
              202
          ],
