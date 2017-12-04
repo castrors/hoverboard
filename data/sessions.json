@@ -50,7 +50,7 @@
      "306": {
          "id": 306,
          "title": "O que devo procurar em um Code Review?",
-         "description": "Irei falar um pouco da minha atual experiência na Concrete, no time de operações. Como mensurar a efetividade dos testes, o uso code styles, implementação de padrões e anti-paterns de um Merge Request(MR), e vários outros fatores que podem indicar o aceite ou não do MR.",
+         "description": "Irei falar um pouco da minha atual experiência na Concrete, no time de operações. Como mensurar a efetividade dos testes, o uso code styles, implementação de padrões e anti-paterns de um Merge Request(MR), e vários outros fatores que podem indicar o aceite ou não do MR. [Slides da palestra](https://www.slideshare.net/RodrigodeSouzaCastro/o-que-devo-procurar-em-um-code-review-81769974)",
          "speakers": [
              202
          ],
@@ -99,7 +99,7 @@
      "310": {
          "id": 310,
          "title": "Além do EC2: Implementando Arquiteturas Escaláveis na Amazon AWS",
-         "description": "Tiago vai falar de Lambda, Api Gateway e Elastic Search. Patrick sobre ELB, Cloud Formation, Auto Scaling, Cloud Watch e como a gente faz pra simular a infra aqui no Docker pro desenvolvedor local.",
+         "description": "Tiago vai falar de Lambda, Api Gateway e Elastic Search. Patrick sobre ELB, Cloud Formation, Auto Scaling, Cloud Watch e como a gente faz pra simular a infra aqui no Docker pro desenvolvedor local. [Slides da palestra](https://firebasestorage.googleapis.com/v0/b/javaneiros-d26af.appspot.com/o/Patrick%20e%20Thiago%20-%20Javaneiros.pptx?alt=media&token=1a790143-68f6-42ac-8763-be26f1c85b62)",
          "speakers": [
              218,219
          ],
@@ -138,7 +138,7 @@
     "313": {
          "id": 313,
          "title": "Gerenciamento de container docker com kubernetes",
-         "description": "Nesta palestra vamos aprender como gerenciar container docker local ou na nuvem usando kubernetes + minikube + gcloud / aws / azure. Sobre a arquitetura do kubernetes iremos falar de: Namespaces, Nodes, Deployments, Services, PersistVolume, ConfigMap, Replication controller. Como demonstração iremos montar um cluster de tomcat 8 e um Serviço de Database usando MySQL com o recurso de PersistVolume e ainda vamos usar o Nginx com o recurso de ConfigMap.",
+         "description": "Nesta palestra vamos aprender como gerenciar container docker local ou na nuvem usando kubernetes + minikube + gcloud / aws / azure. Sobre a arquitetura do kubernetes iremos falar de: Namespaces, Nodes, Deployments, Services, PersistVolume, ConfigMap, Replication controller. Como demonstração iremos montar um cluster de tomcat 8 e um Serviço de Database usando MySQL com o recurso de PersistVolume e ainda vamos usar o Nginx com o recurso de ConfigMap. [Slides da palestra](https://github.com/AnselmoPfeifer/learning-kubernetes/raw/master/docs/javanerios-2017.pdf)",
          "speakers": [
              209
          ],
@@ -151,7 +151,7 @@
     "314": {
          "id": 314,
          "title": "PWA, Service Worker e Offline first - WTF?",
-         "description": "Nesta palestra, pretendo abordar de forma superficial (e muito provavelmente com pouco código) o que é PWA (Progressive Web App), como é o funcionamento de um web service e a importância do PWA atualmente, comparando-o com um app nativo em vários aspectos. Para acompanhar a palestra, a pessoa precisa ter um conhecimento básico sobre Javascript e sobre web apps (que será também abordado e explicado na palestra). Serão exibidos exemplos de PWA, o que é possível de ser realizado e o que não é, testes de performances e uma ou duas prints (sem live code) do código de um PWA básico.",
+         "description": "Nesta palestra, pretendo abordar de forma superficial (e muito provavelmente com pouco código) o que é PWA (Progressive Web App), como é o funcionamento de um web service e a importância do PWA atualmente, comparando-o com um app nativo em vários aspectos. Para acompanhar a palestra, a pessoa precisa ter um conhecimento básico sobre Javascript e sobre web apps (que será também abordado e explicado na palestra). Serão exibidos exemplos de PWA, o que é possível de ser realizado e o que não é, testes de performances e uma ou duas prints (sem live code) do código de um PWA básico. [Slides da palestra](https://prezi.com/j8atk_s7iazp/pwa-service-workers-e-offline-first/)",
          "speakers": [
              210
          ],
@@ -189,7 +189,7 @@
     "317": {
          "id": 317,
          "title": "Devs iOS onde vivem? O que comem? Como se reproduzem? Hoje no Javaneiros",
-         "description": "Falar um pouco sobre essa área que nunca ganhou muita visibilidade em CG, como as pessoas podem ingressar nela, o que é preciso, como é o mercado e etc...",
+         "description": "Falar um pouco sobre essa área que nunca ganhou muita visibilidade em CG, como as pessoas podem ingressar nela, o que é preciso, como é o mercado e etc... [Slides da palestra](https://docs.google.com/presentation/d/1Pw6iGAMdMYBhw_iC-3P4hLQdWujdxLCld4FFLeId1-o/edit?usp=sharing)",
          "speakers": [
              213
          ],
@@ -215,7 +215,7 @@
      "319": {
          "id": 319,
          "title": "Blockchain o que codar nesse bicho.",
-         "description": "Blockchain todo mundo está interessado, mas nele não tem só cripto moedas temos serviços que podem ser explorados e que talvez possa ser o próximo paypal. O intuito da palestra é explicar como podemos utilizar o blockchain para desenvolver soluções!",
+         "description": "Blockchain todo mundo está interessado, mas nele não tem só cripto moedas temos serviços que podem ser explorados e que talvez possa ser o próximo paypal. O intuito da palestra é explicar como podemos utilizar o blockchain para desenvolver soluções! [Slides da palestra](https://slides.com/diogosoares/deck-2-6/live)",
          "speakers": [
              215
          ],
@@ -277,7 +277,7 @@
      "326": {
          "id": 326,
          "title": "Microsserviços com JBoss Swarm e Openshift",
-         "description": "Microsserviços com JBoss Swarm e Openshift com Elvis Rocha",
+         "description": "Microsserviços com JBoss Swarm e Openshift com Elvis Rocha. [Slides da plalestra](https://firebasestorage.googleapis.com/v0/b/javaneiros-d26af.appspot.com/o/apresentacao-elvis-rocha.pdf?alt=media&token=e8b8d23b-800f-4c2b-af07-2aa659562f0d)",
          "speakers": [
              103
          ],
