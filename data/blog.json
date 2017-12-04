@@ -16,5 +16,14 @@
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/caravans.jpg",
     "brief": "DÉCIMA EDIÇÃO, isso mesmo galera, estamos perto da DÉCIMA EDIÇÃO do maior evento de tecnologia do MS."
+  },
+  {
+    "id": "slides",
+    "title": "Slides das apresentações disponíveis",
+    "posted": "2017-12-04",
+    "primaryColor": "#3F51B5",
+    "secondaryColor": "#3F51B5",
+    "image": "/images/posts/slides.jpg",
+    "brief": "DÉCIMA EDIÇÃO, foi incrível!"
   }
 ]

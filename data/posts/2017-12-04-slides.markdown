@@ -1,0 +1,12 @@
+A décima edição do #Javaneiros foi incrível!
+
+Sabemos que vocês estavam anciosos para rever o conteúdo do evento. Você pode encontrar o link para os slides na [sessão de palestrantes](https://www.javaneiros.com.br/speakers/), abaixo da foto do palestrante.
+ 
+Em caso de dúvidas, entre em contato com os organizadores pelo e-mail [coordenacao@jugms.com.br](mailto:coordenacao@jugms.com.br)
+ou pelo celulares [(67) 99259-0520](tel:067992590520) / [(67) 99952-3508](tel:067999523508).
+
+<div class="text-center">
+<a target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Obrigado por sua participação no evento!</paper-button>
+</a>
+</div>

@@ -77,7 +77,12 @@
 				"icon": "linkedin",
 				"name": "LinkedIn",
 				"link": "https://br.linkedin.com/in/castrodev"
-			}
+			},
+			{
+            "icon": "website",
+            "name": "Slides",
+            "link": "https://www.slideshare.net/RodrigodeSouzaCastro/o-que-devo-procurar-em-um-code-review-81769974"
+        	}
 		]
 	},
 	"203": {
@@ -229,7 +234,12 @@
 			"icon": "linkedin",
 			"name": "LinkedIn",
 			"link": "https://br.linkedin.com/in/anselmopfeifer"
-		}]
+		},
+		{
+            "icon": "website",
+            "name": "Slides",
+            "link": "https://github.com/AnselmoPfeifer/learning-kubernetes/raw/master/docs/javanerios-2017.pdf"
+        }]
 	},
 	"210": {
 		"id": 210,
@@ -251,7 +261,12 @@
 			"icon": "facebook",
 			"name": "Facebook",
 			"link": "https://www.facebook.com/diogo.bernardelli"
-		}]
+		},
+		{
+            "icon": "website",
+            "name": "Slides",
+            "link": "https://prezi.com/j8atk_s7iazp/pwa-service-workers-e-offline-first/"
+        }]
 	},
 	"211": {
 		"id": 211,
@@ -320,7 +335,12 @@
 			"icon": "facebook",
 			"name": "Facebook",
 			"link": "https://www.facebook.com/junio.moquiuti"
-		}]
+		},
+		{
+            "icon": "website",
+            "name": "Slides",
+            "link": "https://docs.google.com/presentation/d/1Pw6iGAMdMYBhw_iC-3P4hLQdWujdxLCld4FFLeId1-o/edit?usp=sharing"
+        }]
 	},
 	"214": {
 		"id": 214,
@@ -370,7 +390,12 @@
 			"icon": "facebook",
 			"name": "Facebook",
 			"link": "https://facebook.com/diogo.soares.9081"
-		}]
+		},
+		{
+            "icon": "website",
+            "name": "Slides",
+            "link": "https://slides.com/diogosoares/deck-2-6/live"
+        }]
 	},
 	"216": {
 		"id": 216,
@@ -436,7 +461,12 @@
 			"icon": "linkedin",
 			"name": "LinkedIn",
 			"link": "https://www.linkedin.com/in/patrick-augusto-goncalves-26342311/"
-		}]
+		},
+		{
+            "icon": "website",
+            "name": "Slides",
+            "link": "https://firebasestorage.googleapis.com/v0/b/javaneiros-d26af.appspot.com/o/Patrick%20e%20Thiago%20-%20Javaneiros.pptx?alt=media&token=1a790143-68f6-42ac-8763-be26f1c85b62"
+        }]
 	},
 	"219": {
 		"id": 219,
@@ -458,7 +488,12 @@
 			"icon": "linkedin",
 			"name": "LinkedIn",
 			"link": "https://www.linkedin.com/in/thiagofrancogaldi/"
-		}]
+		},
+		{
+            "icon": "website",
+            "name": "Slides",
+            "link": "https://firebasestorage.googleapis.com/v0/b/javaneiros-d26af.appspot.com/o/Patrick%20e%20Thiago%20-%20Javaneiros.pptx?alt=media&token=1a790143-68f6-42ac-8763-be26f1c85b62"
+        }]
 	},
 	"103": {
 		"id": 103,
@@ -479,7 +514,12 @@
 			"icon": "linkedin",
 			"name": "LinkedIn",
 			"link": "https://www.linkedin.com/in/elvishrocha/"
-		}]
+		},
+		{
+            "icon": "website",
+            "name": "Slides",
+            "link": "https://firebasestorage.googleapis.com/v0/b/javaneiros-d26af.appspot.com/o/apresentacao-elvis-rocha.pdf?alt=media&token=e8b8d23b-800f-4c2b-af07-2aa659562f0d"
+        }]
 	},
 	"104": {
 		"id": 104,
